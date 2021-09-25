@@ -1,0 +1,7 @@
+bookdown::gitbook:
+  config:
+    sharing:
+      facebook: no
+      twitter: no
+    toc:
+      collapse: section

@@ -1,0 +1,67 @@
+# Technical Path {#technical-learning-ml}
+
+## Introduction
+
+### Opening Thoughts
+* There are many ways to learn technical material. Paid courses, YouTube videos, blog posts, and books are all equally effective based on your learning style. The content in the following sections tries to have a healthy balance of all content types. 
+* By default, all of the recommended learning content is free. There are additional resources mentioned where you might have to pay for. These serve as additional avenues to strengthen the concepts and techniques learned in the initial free content. 
+* Machine Learning falls into two camps of programming languages, those who use R and those who leverage Python. Both have their strengths and weaknesses. All learning content will have an equal amount of resources for both R and Python.
+
+### R or Python?
+* Short answer: Eventually you will have to learn both to become a successfully data practitioner, but if you could only pick one choose Python. 
+
+### Getting the Most out of Learning
+* [Deliberate practice](https://jamesclear.com/deliberate-practice-theory) is the best way of getting the learning to stick, and to rapidly evolve your skills. 
+* **Whenever you learn something new in the data and AI world, it's best to usually apply it immediately to a real world project within your job or company.** By using a real world problem to practice what you just learned, you're able to reinforce the new knowledge into your long term memory while at the same time driving impact in your job by solving real problems. What a bonus! Be careful about only working on "toy datasets", which is public data that has been beat to death by hundreds of blogs and courses. The real world of data is messy and unpredictable, so working on things related to your current job or company gets you comfortable with that uncertainty even faster. 
+* Don't feel bad looking up things on Bing/Google. Every technical person who works with computers today most likely looks up things online every day. Software syntax takes time to learn, and some of the best engineers still don't remember all the ins and outs of a language. When it doubt look it up online! Sites like Stack Overflow will quickly become your best friend as you try to work through issues in your code.
+
+## Installing Software
+
+### Python
+* [Coding Tools for Python Development](https://docs.microsoft.com/en-us/learn/modules/install-code-tools-python-nasa/)
+* [VSCode Python Setup](https://www.youtube.com/playlist?list=PLo32uKohmrXt7VB91DLB-hMcDcWswE53Y)
+* [Install Packages - Windows](https://www.activestate.com/resources/quick-reads/python-package-installation-on-windows/)
+* [Install Packages - Mac](https://blog.quantinsti.com/installing-python-packages/)
+
+### R
+* [Installing R and RStudio](https://rstudio-education.github.io/hopr/starting.html)
+* [Install Packages](https://rstudio-education.github.io/hopr/packages2.html)
+
+## Data Analysis and Manipulation
+
+### Python
+* Pick one of the following
+    + [Option 1 - Free Code Camp](https://www.freecodecamp.org/learn/data-analysis-with-python/)
+    + [Option 2 - Zero to Pandas](https://www.youtube.com/watch?v=EsDFiZPljYo&list=PLWKjhJtqVAblvI1i46ScbKV2jH1gdL7VQ)
+    + [Option 3 - 12 Hour Course](https://www.youtube.com/watch?v=EsDFiZPljYo&list=PLWKjhJtqVAblvI1i46ScbKV2jH1gdL7VQ)
+* [Exploratory Reports](https://www.youtube.com/watch?v=-Cdv9C9hLeE)
+
+### R
+
+### Additional Resources
+
+## Version Control
+
+## Machine Learning Basics
+
+## Regression
+
+## Time Series
+
+## Classification
+
+## Unsupervised Learning
+
+## Natural Language Processing
+
+## Deep Learning
+
+## Model Interpretability
+
+## AI Ethics and Fairness
+
+## Web Apps
+
+## Production on Azure
+
+## Life as a Data Scientist

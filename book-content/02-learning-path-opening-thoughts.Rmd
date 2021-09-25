@@ -1,3 +1,31 @@
 # (PART) Learning Path: Machine Learning {-}
 
 # Opening Thoughts {#learning-path-opening-thoughts}
+
+## The Future
+
+Every day new technology is being released that is poised to turn the world of corporate finance upside down. The type of tech that changes not just how you get your job done, but what types of work you do day to day. Machines are getting better and better on more of the mundane tasks of our every day lives, and soon they will encroach on things we deem as hard or creative. This might seem like a scary future, where jobs are at stake and there is a zero sum game with machines taking all of the chips at the end of the day. The good news is the exact opposite will happen!
+
+New technology will open up new worlds of opportunity for people who know how to wield them correctly. They will become impact multipliers, allowing one person to have the impact of 100 people in less time. Types of new technology in corporate finance is sometimes referred to as "Modern Finance" or "Advanced Analytics". These terms can sometimes mean the same thing, using new technology to reinvent current finance activities. Advanced Analytics still falls under the new technology description, but has more specific use cases. The biggest one is Artificial Intelligence (AI) and Machine Learning (ML). This book will mostly talk about AI/ML and it's potential for impact in corporate finance. 
+
+The concept of building things with ML is a huge paradigm shift in who makes the rules in our world. Eventually, there will be two types of people in our society. Those who are at the mercy of machines run by ML, and those who control the machines. Historically the people who had the biggest impact in our world were architects/builders of some sort. People who rebuilt society for the better. In the United States they fell into a few buckets over the years.
+ 
+* **American Revolution**: The Founding Fathers all had legal backgrounds. Knowing law enabled them to rethink how a nation should operate. They were able to use that knowledge to rewrite the rules and build one of the most prosperous nations in the world. 
+	
+* **Industrial Revolution**: Knowledge of manufacturing and getting the best out of workers lead people like Andrew Carnegie and JP Morgan to amass some of the biggest fortunes ever seen, before antitrust came into play 😁. Other power brokers like Robert Moses were able to leverage more traditional architects to reinvent cities with sky scrapers and beautiful parks in New York City.  
+	
+* **Software/Internet Revolution**: Coders in Silicon Valley were able to impact billions of people across the world with ideas written as code in computer programs. This resulted in the biggest leverage anyone in the world can have in terms of work-to-benefit ratio. Margaret Hamilton wrote code that put astronauts on the moon. Bill Gates and Paul Allen wrote the Windows operating system. Mark Zuckerberg wrote the initial version of Facebook in his college dorm room. There has never been a time in history where someone with an idea and a computer can single handedly change the world with such pace and impact.
+	
+* **AI/ML Revolution**: This is where we are at today. People who can wield the power of AI will have impact Bill Gates could only dream about back in the 80s. Teaching machines to learn on their own instead of specifically coding their instructions turns the traditional software model upside down, and opens up doors not thought possible. Self driving cars, cancer research, and world hunger are now problems closer to being solved with the help of AI. What took software teams of dozens of people to build can now be accomplished by one person with an algorithm and high quality data. 
+
+If you're reading this I hope you are recognizing the power of making machines and algorithms work for you, instead of the other way around. Learning how to do this may seem scary, so that's why this book was written! You will have the opportunity to learn how AI and ML works in real life, and how you can develop the skills to thrive in the future AI workforce. Have a growth mindset, take the red pill, and dive down the AI rabbit hole.
+ 
+## Recommendation 
+
+This book was built as way for people in finance to gain the skills needed to thrive in a future ruled by AI machines. While it would be great for everyone to learn how to build and run their own algorithms, this may not be the most feasible solution. The learning content provided starts at the highest level, then slowly goes deeper into the technical side. There are a couple of ways to leverage the content, called out below. 
+
+1. **Table Stakes**: Everyone should know about the first principles of AI and ML. Eventually this knowledge will not be optional, but required. Knowing how AI works at a high level helps better understand ML systems your team might leverage in the future, and allows you to best leverage new tools that come out that make ML easier to use for everyone regardless of technical ability. Read the "Non-Technical Path: Machine Learning" sections to gain a fundamental understand of this new technology. 
+	
+2. **Highly Recommended**: Knowing basic data manipulation in addition to the core concepts of AI will catapult your career in more ways to count. Getting "data superpowers" by learning a little R or Python allows you to break out of the four walls of Excel that have been limiting you for too long. A whole new data world will become open to you, ripe with possibilities to drive impact in whatever job you have in Finance. This knowledge also helps lay the groundwork for building machine learning models, so it's a nice stepping stone to more technical work. In addition to the "Non-Technical Path: Machine Learning" sections, read the chapters through "Data Analysis and Manipulation" within the "Technical Path: Machine Learning" sections. 
+	
+3. **For the Architects of Tomorrow**: For those who want to build exciting futures for everyone to benefit from, read every section! This will walk you through everything you need to know to have a successful data science career in Finance. Fortune favors the bold. The only question you need to answer is why not you? Have a growth mindset and get after it!

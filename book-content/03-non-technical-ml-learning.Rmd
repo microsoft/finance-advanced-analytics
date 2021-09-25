@@ -1,0 +1,49 @@
+# Non-Technical Path {#into-to-ai}
+
+## Intro to AI
+
+### Introduction
+
+### Overview of AI and ML
+
+* [AI for Everyone - Coursera](https://www.coursera.org/learn/ai-for-everyone#syllabus)
+* [AI Terminology](https://www.youtube.com/watch?v=YPD4k730BRQ&list=PLl2kx2ZZbFQT1ZCf8oTFogg8J80FJGse2&index=5)
+* [Simple ML Example Walkthrough](https://www.youtube.com/watch?v=Gv9_4yMHFhI&list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF&index=2)
+* [Time Series Forecasting Overview](https://otexts.com/fpp3/intro.html) (Just Chapter 1)
+
+### History of AI
+
+* [Evolution of AI with Amy Boyd](https://runasradio.com/Shows/Show/739)
+* [Artificial Intelligence, the History and Future](https://www.youtube.com/watch?v=8FHBh_OmdsM)
+
+### AI Ethics and Fairness
+
+* [Microsoft's Approach to Responsible AI](https://www.youtube.com/watch?v=dnC8-uUZXSc)
+* [Guiding Principles for Responsible AI](https://docs.microsoft.com/en-us/learn/modules/responsible-ai-principles/?WT.mc_id=academic-15963-cxa)
+* [AI, Ain't I A Woman?](https://www.youtube.com/watch?v=QxuyfWoVV98)
+* [Fairness-related harms in AI systems: Examples, Assessment, and Mitigation](https://www.youtube.com/watch?v=1RptHwfkx_k)
+* [Responsible AI Resources - Microsoft AI](https://www.microsoft.com/en-us/ai/responsible-ai-resources?activetab=pivot1:primaryr4&rtc=1)
+
+### ML Process and Lifecycle
+
+* [7 Steps of Machine Learning](https://www.youtube.com/watch?v=nKW8Ndu7Mjw)
+* [Lifecyle of Machine Learning Models](https://www.oracle.com/a/ocom/docs/data-science-lifecycle-ebook.pdf)
+
+### Facts of Life with ML
+
+* [Bias vs Variance](https://www.youtube.com/watch?v=EuBBz3bI-aA)
+* [Forecasts are Always Wrong](https://www2.monash.edu/impact/podcasts/thought-capital/forecasts-are-always-wrong-but-we-need-them-anyway/)
+
+### Additional Resources
+
+* [Introduction to Machine Learning - MIT](https://www.youtube.com/watch?v=h0e2HAPTGF4&t=855s)
+* [Machine Learning Overview - Stanford](https://www.youtube.com/watch?v=jGwO_UgTS7I&t=2038s)
+* [AI is the new Electricity](https://www.youtube.com/watch?v=21EiKfQYZXc)
+* [Machine Learning Zero to Hero (Google I/O'19)](https://www.youtube.com/watch?v=VwVg9jCtqaU)
+* [Deep Learning Basics: Introduction and Overview](https://www.youtube.com/watch?v=O5xeyoRL95U)
+* [History of AI - Wikipedia]("https://en.wikipedia.org/wiki/History_of_artificial_intelligence")
+* [Digital Revolution - Walter Isaacson](https://www.youtube.com/playlist?list=PLnJFOBz2SCeebYYbKETRjS_R2gSKpmdM0)
+* [Worlds Easiest Introduction to Machine Learning](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471#.7iuqawmr5)
+* [What's the difference between data science, machine learning, and artificial intelligence?](http://varianceexplained.org/r/ds-ml-ai/)
+
+## Book List
