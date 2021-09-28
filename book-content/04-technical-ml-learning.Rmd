@@ -107,7 +107,60 @@
 
 ### Additional Resources
 
+* [PCA Main Ideas](https://www.youtube.com/watch?v=HMOI_lkzW08)
+* [Introduction to Machine Learning: Microsoft](https://docs.microsoft.com/en-us/learn/modules/introduction-to-machine-learning/) - Python
+* [Introduction to Machine Learning : Udemy](https://www.classcentral.com/course/udemy-introduction-to-data-science-using-python-25723) - Python
+* [Machine Learning for Beginners](https://github.com/microsoft/ML-For-Beginners) - Python
+* [Best Python Machine Learning Libraries](https://github.com/ml-tooling/best-of-ml-python) - Python
+* [Analytical Skills for AI & Data Science](https://learning.oreilly.com/library/view/analytical-skills-for/9781492060932/) - Python
+* [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://learning.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) - Python
+* [Microsoft Approved Data Science Learning Resources](https://medium.com/data-science-at-microsoft/data-science-learning-resources-193ccf6fafb) - Python/R
+* [Introduction to Statistical Learning](https://www.statlearning.com/) - R
+* [Companion Book to Introduction to Statistical Learning](https://emilhvitfeldt.github.io/ISLR-tidymodels-labs/index.html) - R 
+* [R Cheat Sheet](https://www.business-science.io/r-cheatsheet?utm_content=buffer832d4&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) - R
+* [Practical Data Science with R](https://learning.oreilly.com/library/view/practical-data-science/9781617295874/) - R
+
 ## Regression
+
+### High Level Topics
+
+* [Making Friends with Regression](https://www.youtube.com/watch?v=WNvOtwP_yf4)
+* [Evaluation Metrics for Regression Models](https://www.analyticsvidhya.com/blog/2021/05/know-the-best-evaluation-metrics-for-your-regression-model/#:~:text=%20Know%20The%20Best%20Evaluation%20Metrics%20for%20Your,is%20clear%20by%20the%20name%20itself%2C...%20More%20)
+
+### Python
+
+* [Train and Evaluate Regression Models: Microsoft](https://docs.microsoft.com/en-us/learn/modules/train-evaluate-regression-models/)
+* [Train and Understand Regression Models: Microsoft](https://docs.microsoft.com/en-us/learn/modules/understand-regression-machine-learning/)
+* [PyCaret Tutorials](https://pycaret.readthedocs.io/en/latest/tutorials.html#regression)
+* [E-Commerce Tutorial](https://github.com/ishikkkkaaaa/ML-Projects/tree/main/1-E%20COMMERCE)
+* [USA Housing Tutorial](https://github.com/ishikkkkaaaa/ML-Projects/tree/main/2-USA%20housing)
+
+### R
+
+* [Lasso Regression Tutorial](https://juliasilge.com/blog/lasso-the-office/)
+* [Tune and Interpret Decision Trees Tutorial](https://juliasilge.com/blog/wind-turbine/)
+* [Tune Random Forests Tutorial](https://juliasilge.com/blog/ikea-prices/)
+* [Custom Metric Evaluation Tutorial](https://juliasilge.com/blog/nyc-airbnb/)
+* [Bagging Tutorial](https://juliasilge.com/blog/astronaut-missions-bagging/)
+* [Using Text as Features Tutorial](https://juliasilge.com/blog/tate-collection/)
+
+### How Various Models Work
+
+* [Fitting a Line to Data: Least Squares](https://www.youtube.com/watch?v=PaFPbb66DxQ)
+* [Linear Models #1](https://www.youtube.com/watch?v=nk2CQITm_eo)
+* [Linear Models #2](https://www.youtube.com/watch?v=zITIFTsivN8)
+* [Regularization #1](https://www.youtube.com/watch?v=Q81RR3yKn30)
+* [Regularization #2](https://www.youtube.com/watch?v=NGf0voTMlcs)
+* [Regularization #3](https://www.youtube.com/watch?v=1dKRdX9bfIo)
+* [Decision Trees](https://www.youtube.com/watch?v=g9c66TUylZ4)
+* [Random Forest](https://www.youtube.com/watch?v=J4Wdy0Wc_xQ)
+* [Gradient Boost](https://www.youtube.com/watch?v=3CC4N4z3GJc)
+* [XGBoost](https://www.youtube.com/watch?v=OtD8wVaFm6E)
+
+### Additional Resources
+
+* [Fitting a Curve to Data](https://www.youtube.com/watch?v=Vf7oJ6z2LCc)
+* [Linear Regression and Gradient Descent: Stanford](https://www.youtube.com/watch?v=4b4MUYve_U8)
 
 ## Time Series
 
