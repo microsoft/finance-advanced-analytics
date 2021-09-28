@@ -38,11 +38,74 @@
 
 ### R
 
+* [Basics of R](https://rstudio-education.github.io/hopr/index.html)
+* [Manipulating Data](https://r4ds.had.co.nz/index.html) (skip "Model" chapter)
+* [Automating Excel in R](https://www.youtube.com/watch?v=EMSkZOF-ZG8)
+* [Business Reporting in RMarkdown](https://www.youtube.com/watch?v=mszKt0i4yuY)
+* [Exploratory Reports](https://www.youtube.com/watch?v=ssVEoj54rx4)
+
 ### Additional Resources
+
+* [Explore and Analyze Data in Python:  Microsoft](https://docs.microsoft.com/en-us/learn/modules/explore-analyze-data-with-python/) - Python
+* [Python for Data Analysis](https://www.oreilly.com/library/view/python-for-data/9781491957653/) - Python
+* [Python for Excel](https://www.oreilly.com/library/view/python-for-excel/9781492080992/) - Python
+* [Data Cleaning Tutorial: Kaggle](https://www.kaggle.com/learn/data-cleaning) - Python
+* [Pandas Tutorial: Kaggle](https://www.kaggle.com/learn/pandas) - Python
+* [Data Visualization Tutorial: Kaggle](https://www.kaggle.com/learn/data-visualization) - Python
+* [Python Crash Course](https://www.amazon.com/Python-Crash-Course-2nd-Edition/dp/1593279280) - Python
+* [Advancing Into Analytics](https://www.oreilly.com/library/view/advancing-into-analytics/9781492094333/) - Python/R
+* [Python and R for the Modern Data Scientist](https://www.oreilly.com/library/view/python-and-r/9781492093398/) - Python/R
+* [R Programming Tutorial: Learn the Basics of Statistical Computing](https://www.youtube.com/watch?v=_V8eKsto3Ug&list=PLWKjhJtqVAblQe2CCWqV4Zy3LY01Z8aF1&index=9) - R
+* [Data Transformation Cheat Sheet](https://github.com/rstudio/cheatsheets/raw/master/data-transformation.pdf ) - R
+* [R Basics: Harvard](https://www.classcentral.com/course/edx-data-science-r-basics-9253) - R
+
 
 ## Version Control
 
+### High Level Overview
+
+* [Git and GitHub for Beginners](https://www.youtube.com/watch?v=RGOj5yH7evk&t=491s)
+
+### Python
+
+* [VSCode Github Project Setup](https://www.youtube.com/watch?v=e-qQDuswx2I)
+
+### R
+
+* [Happy Git and GitHub for the useR](https://happygitwithr.com/)
+* [Setup R Project from GitHub](https://www.youtube.com/watch?v=F7aYV0RPyD0)
+
+### Additional Resources
+* [Contribute to an Open-Source Project on GitHub](https://docs.microsoft.com/en-us/learn/modules/contribute-open-source/)
+
 ## Machine Learning Basics
+
+### High Level Topics
+
+* [Three Things to do when Starting Out in Data Science](https://www.youtube.com/watch?v=ilUbD7EoQnk)
+* [Types of ML Models](https://www.youtube.com/watch?v=yN7ypxC7838)
+* [Gradient Descent: Step-by-Step](https://www.youtube.com/watch?v=sDv4f4s2SB8)
+* [ML Fundamentals: Cross Validation](https://www.youtube.com/watch?v=fSytzGwwBVw)
+
+### Python
+
+* [Intro to Machine Learning: Kaggle](https://www.kaggle.com/learn/intro-to-machine-learning)
+* [Intermediate Machine Learning: Kaggle](https://www.kaggle.com/learn/intermediate-machine-learning)
+* [Feature Egnineering: Kaggle](https://www.kaggle.com/learn/feature-engineering)
+* [Exploratory Data Analysis #1](https://www.youtube.com/watch?v=-Cdv9C9hLeE)
+* [Exploratory Data Analysis #2](https://www.youtube.com/watch?v=CCy0JAB_fbo)
+* [Scikit-Learn Crash Course](https://www.youtube.com/watch?v=0B5eIE_1vpU)
+* [PyCaret Guide](https://pycaret.org/guide/)
+
+### R
+
+* [Tidy Modeling with R](https://www.tmwr.org/index.html)
+* [Intro to ML with Parsnip](https://www.youtube.com/watch?v=2Zcwa7HPg5w&list=PLo32uKohmrXvDwyyty6pC4mcWER5tSdmO&index=10)
+* [Supervised ML Case Studies in R](https://supervised-ml-course.netlify.app/)
+* [Exploratory Data Analysis](https://www.youtube.com/watch?v=ssVEoj54rx4)
+* [Business Reporting in R with Rmarkdown](https://www.youtube.com/watch?v=mszKt0i4yuY)
+
+### Additional Resources
 
 ## Regression
 

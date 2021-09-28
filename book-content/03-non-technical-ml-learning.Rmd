@@ -47,3 +47,25 @@
 * [What's the difference between data science, machine learning, and artificial intelligence?](http://varianceexplained.org/r/ds-ml-ai/)
 
 ## Book List
+
+### General AI Books
+
+* [Reprogamming the American Dream](https://www.amazon.com/Reprogramming-American-Dream-America-Valley-Making-ebook/dp/B07V1W37XK/ref=sr_1_1?crid=2OAPWAOX7DY27&dchild=1&keywords=reprogramming+the+american+dream&qid=1632757570&s=books&sprefix=reprogammning+the+%2Caps%2C258&sr=1-1)
+
+### Multidisciplinary Thinking and Mental Models
+
+* [Farnam Street Mental Models Series](https://www.amazon.com/dp/B086DQQ278?binding=kindle_edition&qid=1632841888&sr=1-6&ref=dbs_dp_rwt_sb_tukn)
+* [Poor Charlie's Almanac](https://www.amazon.com/Poor-Charlies-Almanack-Charles-Expanded/dp/1578645018/ref=sr_1_1?crid=1JML3Q3PTJA36&dchild=1&keywords=poor+charlie%27s+almanack&qid=1632841859&sprefix=poor+charlie%2Caps%2C232&sr=8-1)
+
+### Innovation and Systems Thinking
+
+* [Coders: Clive Thompson](https://www.amazon.com/Coders-Making-Tribe-Remaking-World-ebook/dp/B07DBRNN1Z/ref=sr_1_1?dchild=1&keywords=coders&qid=1632842213&sr=8-1)
+* [Creativity Inc: Ed Catmull](https://www.amazon.com/Creativity-Inc-Overcoming-Unseen-Inspiration-ebook/dp/B00FUZQYBO/ref=sr_1_1?dchild=1&keywords=creativity+inc&qid=1632842231&sr=8-1)
+* [Essentialism: Greg McKewon](https://www.amazon.com/Essentialism-Disciplined-Pursuit-Greg-McKeown-ebook/dp/B00G1J1D28/ref=sr_1_1?dchild=1&keywords=essentialism&qid=1632842246&sr=8-1)
+* [Good to Great: Jim Collins](https://www.amazon.com/Good-Great-Some-Companies-Others-ebook/dp/B0058DRUV6/ref=sr_1_1?dchild=1&keywords=good+to+great&qid=1632842264&sr=8-1)
+* [Loonshots: Safi Bachall](https://www.amazon.com/Loonshots-Nurture-Diseases-Transform-Industries-ebook/dp/B07D2BKVQR/ref=sr_1_1?dchild=1&keywords=loonshots&qid=1632842199&sr=8-1)
+* [Mastery: Robert Green](https://www.amazon.com/Mastery-Robert-Greene-ebook/dp/B007V65PBK/ref=sr_1_1?dchild=1&keywords=mastery&qid=1632842281&sr=8-1)
+* [Principles: Ray Dalio](https://www.amazon.com/Principles-Life-Work-Ray-Dalio-ebook/dp/B071CTK28D/ref=sr_1_1?dchild=1&keywords=principles&qid=1632842180&sr=8-1)
+* [Range: David Epstein](https://www.amazon.com/Range-Generalists-Triumph-Specialized-World-ebook/dp/B07H1ZYWTM/ref=sr_1_1?dchild=1&keywords=range&qid=1632842291&sr=8-1)
+* [WTF?: Tim O'Reilly](https://www.amazon.com/WTF-Whats-Future-Why-Its-ebook/dp/B01N34IDU6/ref=sr_1_16?dchild=1&keywords=wtf&qid=1632842301&sr=8-16)
+* [Zero to One: Peter Thiel](https://www.amazon.com/Zero-One-Notes-Startups-Future-ebook/dp/B00J6YBOFQ/ref=sr_1_1?dchild=1&keywords=zero+to+one&qid=1632842160&sr=8-1)
