@@ -9,9 +9,9 @@ bibliography: [book.bib, packages.bib]
 biblio-style: apalike
 link-citations: yes
 github-repo: microsoft/finance-advanced-analytics
-description: "Advanced Analytics at Microsoft Finance"
+description: "Content around how we approach advanced analytics solutions at Microsoft Finance"
 ---
 
 # Welcome {-}
 
-Test
+Hi there! This book is something we at Microsoft Finance have been thinking about doing for a long time. A book that dives deep into the advanced analytics work we do so that others can learn from our journey and replicate our successes within their own finance departments. This will be a living and breathing document that will constantly get updated as our advanced analytics journey continues to evolve at Microsoft Finance. Enjoy!

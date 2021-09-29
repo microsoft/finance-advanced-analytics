@@ -164,7 +164,86 @@
 
 ## Time Series
 
+### High Level Topics
+
+* [Time Series Forecasting with Machine Learning](https://www.youtube.com/watch?v=_ZQ-lQrK9Rg)
+* [Forecasting: Principles and Practice](https://otexts.com/fpp3/intro.html) (Chapter 1)
+
+### Python
+
+* [Time Series Analysis in Python #1](https://www.youtube.com/watch?v=axjgEgBgIY0)
+* [Time Series Analysis in Python #2](https://www.youtube.com/watch?v=sCl6CXZ2xBg)
+* [Time Series Forecasting with XGBoost](https://www.youtube.com/watch?v=Wsfz3i1AXzY)
+* [Introduction to Machine Learning with Time Series](https://www.youtube.com/watch?v=Wf2naBHRo8Q)
+
+### R
+
+* [Forecasting: Principles and Practice](https://otexts.com/fpp3/)
+* [Introduction to Modeltime: Forecasting with Tidymodels](https://www.youtube.com/watch?v=-bCelif-ENY)
+* [High Performance Time Series Forecasting](https://www.youtube.com/watch?v=elQb4VzRINg)
+* [Arima Forecasting in R](https://www.youtube.com/watch?v=3znQUrREUC8)
+* [Forecasting Multiple Time Series with Modeltime](https://www.youtube.com/watch?v=6RjYIOCnRMk)
+* [Plotting Time Series in R](https://www.youtube.com/watch?v=Nf8FwFCJz2c)
+* [Microsoft Finance Time Series Forecast Framework](https://microsoft.github.io/finnts/)
+
+### How Various Models Work
+
+* All regression models in the [Regression](#regression) chapter can be turned into time series models
+* [Arima](https://otexts.com/fpp3/arima.html)
+* [Exponential Smoothing](https://otexts.com/fpp3/expsmooth.html)
+
+### Additional Learning Resources
+
+* [Machine Learning for Time Series with Python](https://www.youtube.com/watch?v=cBojo1hsHiI) - Python
+* [Practical Time Series Analysis](https://learning.oreilly.com/library/view/practical-time-series/9781492041641/) - Python
+* [Time Series Forecasting: Business Science University](https://university.business-science.io/p/ds4b-203-r-high-performance-time-series-forecasting) - R
+
 ## Classification
+
+### High Level Topics
+
+* [Classification in Machine Learning](https://www.youtube.com/watch?v=pXdum128xww) (skip tutorial at end)
+* [Confusion Matrix](https://www.youtube.com/watch?v=Kdsp6soqA7o)
+* [Sensitivity and Specificity](https://www.youtube.com/watch?v=vP06aMoz4v8)
+* [ROC and AUC](https://www.youtube.com/watch?v=4jRBRDbJemM)
+
+### Python
+
+* [Train and Evaluation Classification Models: Microsoft](https://docs.microsoft.com/en-us/learn/modules/train-evaluate-classification-models/)
+* [Create and Understand Classification Models: Microsoft](https://docs.microsoft.com/en-us/learn/modules/understand-classification-machine-learning/)
+* [Confusion Matrix and Class Imbalance: Microsoft](https://docs.microsoft.com/en-us/learn/modules/machine-learning-confusion-matrix/)
+* [Measure and Optimize Model Performance: Microsoft](https://docs.microsoft.com/en-us/learn/modules/optimize-model-performance-roc-auc/)
+* [Hyperparameter Tuning with Random Forest: Microsoft](https://docs.microsoft.com/en-us/learn/modules/machine-learning-architectures-and-hyperparameters/)
+* [PyCaret Tutorials](https://pycaret.readthedocs.io/en/latest/tutorials.html#classification)
+* [Titanic Tutorial](https://github.com/ishikkkkaaaa/ML-Projects/tree/main/3-Titanic%20project)
+* [Advertising Tutorial](https://github.com/ishikkkkaaaa/ML-Projects/tree/main/4-advertising%20project(logitic%20regression))
+* [Loan Tutorial](https://github.com/ishikkkkaaaa/ML-Projects/tree/main/6-Loan%20project)
+
+### R
+
+* [Logistic Regression](https://www.youtube.com/watch?v=Qi-sVE0SWFc)
+* [Hotel Bookings Tutorial](https://juliasilge.com/blog/hotels-recipes/)
+* [Water Source Availability Tutorial](https://juliasilge.com/blog/water-sources/)
+* [Beach Volleyball Tutorial](https://juliasilge.com/blog/xgboost-tune-volleyball/)
+* [Volcano Eruptions Tutorial](https://juliasilge.com/blog/multinomial-volcano-eruptions/)
+* [Food Consumption Tutorial](https://juliasilge.com/blog/food-hyperparameter-tune/)
+
+### How Various Models Work
+
+* [Logistic Regression](https://www.youtube.com/watch?v=yIYKR4sgzI8)
+* [K-Nearest Neighbors](https://www.youtube.com/watch?v=HVXime0nQeI)
+* [Decision Trees #1](https://www.youtube.com/watch?v=_L39rN6gz7Y)
+* [Decision Trees #2](https://www.youtube.com/watch?v=wpNl-JwwplA)
+* [Random Forest](https://www.youtube.com/watch?v=J4Wdy0Wc_xQ)
+* [Gradient Boost](https://www.youtube.com/watch?v=jxuNLH5dXCs)
+* [XGBoost](https://www.youtube.com/watch?v=8b1JEDvenQU)
+
+### Additional Learning Resources
+
+* [Locally Weighted and Logistic Regression: Stanford](https://www.youtube.com/watch?v=8b1JEDvenQU)
+* [Supervised Machine Learning: Coursera](https://www.classcentral.com/course/supervised-learning-classification-20945) - Python
+* [Classification Bootcamp: Udemy](https://www.classcentral.com/course/udemy-machine-learning-classification-38705) - Python
+* [Machine Learning Classification: Coursera](https://www.classcentral.com/course/ml-classification-4219) - Python
 
 ## Unsupervised Learning
 
