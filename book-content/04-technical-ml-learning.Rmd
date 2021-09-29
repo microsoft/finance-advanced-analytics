@@ -257,6 +257,10 @@
 
 ## Web Apps
 
+### R
+
+* [Outstanding User Interfaces with Shiny](https://unleash-shiny.rinterface.com/index.html)
+
 ## Production on Azure
 
 ## Life as a Data Scientist
