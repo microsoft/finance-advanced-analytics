@@ -43,6 +43,8 @@
 * [Automating Excel in R](https://www.youtube.com/watch?v=EMSkZOF-ZG8)
 * [Business Reporting in RMarkdown](https://www.youtube.com/watch?v=mszKt0i4yuY)
 * [Exploratory Reports](https://www.youtube.com/watch?v=ssVEoj54rx4)
+* [Fundamental of Data Visualization](https://clauswilke.com/dataviz/)
+* [R Graphics Cookbook](https://r-graphics.org/)
 
 ### Additional Resources
 
@@ -247,18 +249,111 @@
 
 ## Unsupervised Learning
 
+### Python
+
+* [Train and Evaluate Clustering Models](https://docs.microsoft.com/en-us/learn/modules/train-evaluate-cluster-models/)
+* [PyCaret Clustering Tutorial](https://pycaret.readthedocs.io/en/latest/tutorials.html#clustering)
+* [PyCaret Anomaly Detection Tutorial](https://pycaret.readthedocs.io/en/latest/tutorials.html#anomaly-detection)
+* [PCA Tutorial](https://github.com/ishikkkkaaaa/ML-Projects/tree/main/7-Breast%20cancer)
+
+### R
+
+* [PCA Tutorial](https://juliasilge.com/blog/un-voting/)
+* [PCA and UMAP Tutorial](https://juliasilge.com/blog/cocktail-recipes-umap/)
+* [Visualizing PCA in R](https://www.youtube.com/watch?v=X4wsXba_tZI)
+
+### How Various Models Work
+
+* [K-Means Clustering](https://www.youtube.com/watch?v=4b5d3muPQmA)
+* [PCA](https://www.youtube.com/watch?v=FgakZw6K1QQ&list=PLblh5JKOoLUIcdlgu78MnlATeyx4cEVeR&index=1)
+
 ## Natural Language Processing
+
+### Python
+
+* [Natural Language Processing: Kaggle](https://www.kaggle.com/learn/natural-language-processing)
+* [Explore Natural Language Processing in Azure: Microsoft](https://docs.microsoft.com/en-us/learn/paths/explore-natural-language-processing/)
+* [PyCaret Tutorial](https://pycaret.readthedocs.io/en/latest/tutorials.html#natural-language-processing)
+
+### R
+
+* [Text Mining in R](https://www.tidytextmining.com/)
+* [Text Mining with Tidy Data Principles](https://juliasilge.shinyapps.io/learntidytext/)
+* [Supervised Machine Learning for Text Analysis](https://smltar.com/)
+
+### Additional Resources
+
+* [Practical Natural Language Processing](https://learning.oreilly.com/library/view/practical-natural-language/9781492054047/) - Python
+* [Natural Language Processing with Python and spaCy](https://learning.oreilly.com/library/view/natural-language-processing/9781098122652/) - Python
+* [Applied Text Analysis](https://learning.oreilly.com/library/view/applied-text-analysis/9781491963036/) - Python
+* [Introduction to Natural Language Processing with PyTorch: Microsoft](https://docs.microsoft.com/en-us/learn/modules/intro-natural-language-processing-pytorch/) - Python
 
 ## Deep Learning
 
+### High Level Topics
+
+* [Deep Learning Crash Course](https://www.youtube.com/watch?v=VyWAvY2CF9c)
+* [Neural Networks](https://www.youtube.com/playlist?list=PLblh5JKOoLUIxGDQs4LFFD--41Vzf-ME1)
+
+### Python
+
+* [Practical Deep Learning for Coders](https://course.fast.ai/)
+* [Train and Evaluate Deep Learning Models: Microsoft](https://docs.microsoft.com/en-us/learn/modules/train-evaluate-deep-learn-models/)
+
+### R
+
+* [Deep Learning with Tidymodels, Torch, and Tabnet](https://www.youtube.com/watch?v=GuboAGHDgas)
+
+### Additional Resources
+
+
+* [Andrew Ng: Deep Learning, Education, and Real-World AI](https://www.youtube.com/watch?v=0jspaMLxBig)
+* [Nuts and Bolts of Applying Deep Learning](https://www.youtube.com/watch?v=F1ka6a13S9I)
+* [History of Deep Learning](https://www.youtube.com/watch?v=mTtDfKgLm54)
+* [Deep Learning for Coders with fastai and PyTorch](https://learning.oreilly.com/library/view/deep-learning-for/9781492045519/) - Python
+* [Deep Learning: Coursera](https://www.coursera.org/specializations/deep-learning#courses) - Python
+* [Computer Vision Tutorial: Kaggle](https://www.kaggle.com/learn/computer-vision) - Python
+* [Deep Learning with R](https://learning.oreilly.com/library/view/deep-learning-with/9781617295546/) - R
+
 ## Model Interpretability
 
+### High Level Topics
+
+* [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
+
+### Python
+
+* [Machine Learning Explainability: Kaggle](https://www.kaggle.com/learn/machine-learning-explainability)
+* [interpretML](https://github.com/interpretml/interpret)
+
+### R
+
+* [vip: Variable Importance Plots](https://koalaverse.github.io/vip/index.html)
+* [Model Interpretability Tutorial](https://juliasilge.com/blog/wind-turbine/)
+* [Partial Dependence Plots with Tidymodels and DALEX](https://juliasilge.com/blog/mario-kart/)
+
 ## AI Ethics and Fairness
+
+### High Level Topics
+
+* [Intro to AI Ethics: Kaggle](https://www.kaggle.com/learn/intro-to-ai-ethics)
+* [Fairness and Machine Learning](https://fairmlbook.org/)
+* [What Happens when an Algorithm Cuts Your Healthcare](https://www.theverge.com/2018/3/21/17144260/healthcare-medicaid-algorithm-arkansas-cerebral-palsy)
+
+### Python
+
+* [Fairlearn](https://fairlearn.org/)
+* [Data Ethics in Deep Learning](https://course.fast.ai/videos/?lesson=5)
 
 ## Web Apps
 
 ### R
 
+* [A Gentle Introduction to creating R Shiny Web Apps](https://www.youtube.com/watch?v=jxsKUxkiaLI)
+* [Shiny Walkthrough](https://www.youtube.com/watch?v=eoeLn8SyDW8)
+* [Building Predictive Web Applications with R Shiny](https://www.youtube.com/watch?v=oegRVT262Ig)
+* [Build Interactive Data-Driven Web Apps With R Shiny](https://www.freecodecamp.org/news/build-interactive-data-driven-web-apps-with-r-shiny/)
+* [Engineering Production Grade Shiny Apps](https://engineering-shiny.org/)
 * [Outstanding User Interfaces with Shiny](https://unleash-shiny.rinterface.com/index.html)
 
 ## Production on Azure
