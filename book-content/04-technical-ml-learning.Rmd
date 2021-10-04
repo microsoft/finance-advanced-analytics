@@ -347,6 +347,11 @@
 
 ## Web Apps
 
+### Python
+
+* [Python Web Applications with Flask](https://www.youtube.com/watch?v=Qr4QMBUPxWo)
+* [Build 12 Data Science Apps with Python and Streamlit](https://www.youtube.com/watch?v=JwSS70SZdyM)
+
 ### R
 
 * [A Gentle Introduction to creating R Shiny Web Apps](https://www.youtube.com/watch?v=jxsKUxkiaLI)
