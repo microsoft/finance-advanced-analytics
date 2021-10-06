@@ -2,6 +2,9 @@
 
 ## Introduction
 
+![](images/3.1.jpg_large)
+[source](https://pbs.twimg.com/media/CnTztGXWAAAWDXO.jpg:large)
+
 ### Opening Thoughts
 * There are many ways to learn technical material. Paid courses, YouTube videos, blog posts, and books are all equally effective based on your learning style. The content in the following sections tries to have a healthy balance of all content types. 
 * By default, all of the recommended learning content is free. There are additional resources mentioned where you might have to pay for. These serve as additional avenues to strengthen the concepts and techniques learned in the initial free content. 
@@ -17,6 +20,9 @@
 
 ## Installing Software
 
+![](images/3.2.gif)
+[source](https://dilbert.com/strip/2018-08-03)
+
 ### Python
 * [Coding Tools for Python Development](https://docs.microsoft.com/en-us/learn/modules/install-code-tools-python-nasa/)
 * [VSCode Python Setup](https://www.youtube.com/playlist?list=PLo32uKohmrXt7VB91DLB-hMcDcWswE53Y)
@@ -28,6 +34,9 @@
 * [Install Packages](https://rstudio-education.github.io/hopr/packages2.html)
 
 ## Data Analysis and Manipulation
+
+![](images/3.3.gif)
+[source](https://dilbert.com/strip/2017-07-10)
 
 ### Python
 * Pick one of the following
@@ -64,6 +73,9 @@
 
 ## Version Control
 
+![](images/3.4.gif)
+[source](https://dilbert.com/strip/2000-09-21)
+
 ### High Level Overview
 
 * [Git and GitHub for Beginners](https://www.youtube.com/watch?v=RGOj5yH7evk&t=491s)
@@ -82,6 +94,9 @@
 * [Contribute to an Open-Source Project on GitHub](https://docs.microsoft.com/en-us/learn/modules/contribute-open-source/)
 
 ## Machine Learning Basics
+
+![](images/3.5.gif)
+[source](https://dilbert.com/strip/2014-07-04)
 
 ### High Level Topics
 
@@ -125,6 +140,9 @@
 
 ## Regression
 
+![](images/3.6.gif)
+[source](https://dilbert.com/strip/2016-06-21)
+
 ### High Level Topics
 
 * [Making Friends with Regression](https://www.youtube.com/watch?v=WNvOtwP_yf4)
@@ -167,6 +185,9 @@
 
 ## Time Series
 
+![](images/3.7.gif)
+[source](https://dilbert.com/strip/2001-12-29)
+
 ### High Level Topics
 
 * [Time Series Forecasting with Machine Learning](https://www.youtube.com/watch?v=_ZQ-lQrK9Rg)
@@ -202,6 +223,9 @@
 * [Time Series Forecasting: Business Science University](https://university.business-science.io/p/ds4b-203-r-high-performance-time-series-forecasting) - R
 
 ## Classification
+
+![](images/3.8.gif)
+[source](https://dilbert.com/strip/2018-08-02)
 
 ### High Level Topics
 
@@ -250,6 +274,9 @@
 
 ## Unsupervised Learning
 
+![](images/3.9.gif)
+[source](https://dilbert.com/strip/2018-01-06)
+
 ### Python
 
 * [Train and Evaluate Clustering Models](https://docs.microsoft.com/en-us/learn/modules/train-evaluate-cluster-models/)
@@ -269,6 +296,9 @@
 * [PCA](https://www.youtube.com/watch?v=FgakZw6K1QQ&list=PLblh5JKOoLUIcdlgu78MnlATeyx4cEVeR&index=1)
 
 ## Natural Language Processing
+
+![](images/3.10.gif)
+[source](https://dilbert.com/strip/2017-07-13)
 
 ### Python
 
@@ -290,6 +320,9 @@
 * [Introduction to Natural Language Processing with PyTorch: Microsoft](https://docs.microsoft.com/en-us/learn/modules/intro-natural-language-processing-pytorch/) - Python
 
 ## Deep Learning
+
+![](images/3.11.gif)
+[source](https://dilbert.com/strip/2021-03-12)
 
 ### High Level Topics
 
@@ -318,6 +351,9 @@
 
 ## Model Interpretability
 
+![](images/3.12.gif)
+[source](https://dilbert.com/strip/1998-12-10)
+
 ### High Level Topics
 
 * [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
@@ -335,6 +371,9 @@
 
 ## AI Ethics and Fairness
 
+![](images/3.13.gif)
+[source](https://dilbert.com/strip/2015-02-10)
+
 ### High Level Topics
 
 * [Intro to AI Ethics: Kaggle](https://www.kaggle.com/learn/intro-to-ai-ethics)
@@ -347,6 +386,9 @@
 * [Data Ethics in Deep Learning](https://course.fast.ai/videos/?lesson=5)
 
 ## Web Apps
+
+![](images/3.14.jpg)
+[source](https://dilbert.com/strip/2016-03-06)
 
 ### Python
 
@@ -364,4 +406,10 @@
 
 ## Production on Azure
 
+![](images/3.15.gif)
+[source](https://dilbert.com/strip/2014-01-17)
+
 ## Life as a Data Scientist
+
+![](images/3.16.gif)
+[source](https://dilbert.com/strip/2018-04-03)

@@ -2,6 +2,9 @@
 
 ## Intro to AI
 
+![](images/2.1.gif)
+[source](https://dilbert.com/strip/2018-11-24)
+
 ### Introduction
 
 ### Overview of AI and ML
@@ -47,6 +50,9 @@
 * [What's the difference between data science, machine learning, and artificial intelligence?](http://varianceexplained.org/r/ds-ml-ai/)
 
 ## Book List
+
+![](images/2.2.gif)
+[source](https://dilbert.com/strip/1989-05-28)
 
 ### General AI Books
 

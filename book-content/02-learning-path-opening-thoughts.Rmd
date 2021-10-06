@@ -2,6 +2,9 @@
 
 # Opening Thoughts {#learning-path-opening-thoughts}
 
+![](images/1.1.gif)
+[source](https://dilbert.com/strip/2017-09-07)
+
 ## The Future
 
 Every day new technology is being released that is poised to turn the world of corporate finance upside down. The type of tech that changes not just how you get your job done, but what types of work you do day to day. Machines are getting better and better on more of the mundane tasks of our every day lives, and soon they will encroach on things we deem as hard or creative. This might seem like a scary future, where jobs are at stake and there is a zero sum game with machines taking all of the chips at the end of the day. The good news is the exact opposite will happen!
