@@ -2,8 +2,8 @@
 
 # Opening Thoughts {#learning-path-opening-thoughts}
 
-![](images/1.1.gif)
-[source](https://dilbert.com/strip/2017-09-07)
+<!-- ![](images/1.1.gif) -->
+<!-- [source](https://dilbert.com/strip/2017-09-07) -->
 
 ## The Future
 

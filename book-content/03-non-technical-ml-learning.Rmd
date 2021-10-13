@@ -2,8 +2,8 @@
 
 ## Intro to AI
 
-![](images/2.1.gif)
-[source](https://dilbert.com/strip/2018-11-24)
+<!-- ![](images/2.1.gif) -->
+<!-- [source](https://dilbert.com/strip/2018-11-24) -->
 
 ### Introduction
 
@@ -51,8 +51,8 @@
 
 ## Book List
 
-![](images/2.2.gif)
-[source](https://dilbert.com/strip/1989-05-28)
+<!-- ![](images/2.2.gif) -->
+<!-- [source](https://dilbert.com/strip/1989-05-28) -->
 
 ### General AI Books
 

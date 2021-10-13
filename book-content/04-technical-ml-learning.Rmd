@@ -2,8 +2,8 @@
 
 ## Introduction
 
-![](images/3.1.jpg_large)
-[source](https://pbs.twimg.com/media/CnTztGXWAAAWDXO.jpg:large)
+<!-- ![](images/3.1.jpg_large) -->
+<!-- [source](https://pbs.twimg.com/media/CnTztGXWAAAWDXO.jpg:large) -->
 
 ### Opening Thoughts
 * There are many ways to learn technical material. Paid courses, YouTube videos, blog posts, and books are all equally effective based on your learning style. The content in the following sections tries to have a healthy balance of all content types. 
@@ -20,8 +20,8 @@
 
 ## Installing Software
 
-![](images/3.2.gif)
-[source](https://dilbert.com/strip/2018-08-03)
+<!-- ![](images/3.2.gif) -->
+<!-- [source](https://dilbert.com/strip/2018-08-03) -->
 
 ### Python
 * [Coding Tools for Python Development](https://docs.microsoft.com/en-us/learn/modules/install-code-tools-python-nasa/)
@@ -35,8 +35,8 @@
 
 ## Data Analysis and Manipulation
 
-![](images/3.3.gif)
-[source](https://dilbert.com/strip/2017-07-10)
+<!-- ![](images/3.3.gif) -->
+<!-- [source](https://dilbert.com/strip/2017-07-10) -->
 
 ### Python
 * Pick one of the following
@@ -73,8 +73,8 @@
 
 ## Version Control
 
-![](images/3.4.gif)
-[source](https://dilbert.com/strip/2000-09-21)
+<!-- ![](images/3.4.gif) -->
+<!-- [source](https://dilbert.com/strip/2000-09-21) -->
 
 ### High Level Overview
 
@@ -95,8 +95,8 @@
 
 ## Machine Learning Basics
 
-![](images/3.5.gif)
-[source](https://dilbert.com/strip/2014-07-04)
+<!-- ![](images/3.5.gif) -->
+<!-- [source](https://dilbert.com/strip/2014-07-04) -->
 
 ### High Level Topics
 
@@ -140,8 +140,8 @@
 
 ## Regression
 
-![](images/3.6.gif)
-[source](https://dilbert.com/strip/2016-06-21)
+<!-- ![](images/3.6.gif) -->
+<!-- [source](https://dilbert.com/strip/2016-06-21) -->
 
 ### High Level Topics
 
@@ -185,8 +185,8 @@
 
 ## Time Series
 
-![](images/3.7.gif)
-[source](https://dilbert.com/strip/2001-12-29)
+<!-- ![](images/3.7.gif) -->
+<!-- [source](https://dilbert.com/strip/2001-12-29) -->
 
 ### High Level Topics
 
@@ -224,8 +224,8 @@
 
 ## Classification
 
-![](images/3.8.gif)
-[source](https://dilbert.com/strip/2018-08-02)
+<!-- ![](images/3.8.gif) -->
+<!-- [source](https://dilbert.com/strip/2018-08-02) -->
 
 ### High Level Topics
 
@@ -274,8 +274,8 @@
 
 ## Unsupervised Learning
 
-![](images/3.9.gif)
-[source](https://dilbert.com/strip/2018-01-06)
+<!-- ![](images/3.9.gif) -->
+<!-- [source](https://dilbert.com/strip/2018-01-06) -->
 
 ### Python
 
@@ -297,8 +297,8 @@
 
 ## Natural Language Processing
 
-![](images/3.10.gif)
-[source](https://dilbert.com/strip/2017-07-13)
+<!-- ![](images/3.10.gif) -->
+<!-- [source](https://dilbert.com/strip/2017-07-13) -->
 
 ### Python
 
@@ -321,8 +321,8 @@
 
 ## Deep Learning
 
-![](images/3.11.gif)
-[source](https://dilbert.com/strip/2021-03-12)
+<!-- ![](images/3.11.gif) -->
+<!-- [source](https://dilbert.com/strip/2021-03-12) -->
 
 ### High Level Topics
 
@@ -351,8 +351,8 @@
 
 ## Model Interpretability
 
-![](images/3.12.gif)
-[source](https://dilbert.com/strip/1998-12-10)
+<!-- ![](images/3.12.gif) -->
+<!-- [source](https://dilbert.com/strip/1998-12-10) -->
 
 ### High Level Topics
 
@@ -371,8 +371,8 @@
 
 ## AI Ethics and Fairness
 
-![](images/3.13.gif)
-[source](https://dilbert.com/strip/2015-02-10)
+<!-- ![](images/3.13.gif) -->
+<!-- [source](https://dilbert.com/strip/2015-02-10) -->
 
 ### High Level Topics
 
@@ -387,8 +387,8 @@
 
 ## Web Apps
 
-![](images/3.14.jpg)
-[source](https://dilbert.com/strip/2016-03-06)
+<!-- ![](images/3.14.jpg) -->
+<!-- [source](https://dilbert.com/strip/2016-03-06) -->
 
 ### Python
 
@@ -406,10 +406,10 @@
 
 ## Production on Azure
 
-![](images/3.15.gif)
-[source](https://dilbert.com/strip/2014-01-17)
+<!-- ![](images/3.15.gif) -->
+<!-- [source](https://dilbert.com/strip/2014-01-17) -->
 
 ## Life as a Data Scientist
 
-![](images/3.16.gif)
-[source](https://dilbert.com/strip/2018-04-03)
+<!-- ![](images/3.16.gif) -->
+<!-- [source](https://dilbert.com/strip/2018-04-03) -->
