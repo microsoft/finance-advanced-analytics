@@ -132,6 +132,7 @@
 * [Best Python Machine Learning Libraries](https://github.com/ml-tooling/best-of-ml-python) - Python
 * [Analytical Skills for AI & Data Science](https://learning.oreilly.com/library/view/analytical-skills-for/9781492060932/) - Python
 * [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://learning.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) - Python
+* [Avoiding Machine Learning Mistakes: LinkedIn Learning](https://www.linkedin.com/learning-login/share?account=3322&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fmistakes-to-avoid-in-machine-learning%3Ftrk%3Dshare_ent_url%26shareId%3D8%252BBs8riLTDmpKQwusvciAQ%253D%253D) - Python
 * [Microsoft Approved Data Science Learning Resources](https://medium.com/data-science-at-microsoft/data-science-learning-resources-193ccf6fafb) - Python/R
 * [Introduction to Statistical Learning](https://www.statlearning.com/) - R
 * [Companion Book to Introduction to Statistical Learning](https://emilhvitfeldt.github.io/ISLR-tidymodels-labs/index.html) - R 
