@@ -414,6 +414,12 @@
 <!-- ![](images/3.16.gif) -->
 <!-- [source](https://dilbert.com/strip/2018-04-03) -->
 
+### Build Models and Build Community
+
+### Coding Best Practices
+
+* [Best Practice for Writing Code Comments](https://stackoverflow.blog/2021/07/05/best-practices-for-writing-code-comments/?utm_medium=email&utm_source=topic+optin&utm_campaign=awareness&utm_content=20210828+prog+nl&mkt_tok=MTA3LUZNUy0wNzAAAAF_LK1OjKlqDG9SxsVfzMCGmwO5ZelBS-fBHGWHz3FyjGzK_06soVvuT7ljzYAZYITpbG8uwSSDfuC45Z0MP5qLgyunNstZqBDys4jaWHFFSczZ)
+
 ### Additional Resources
 
 * [Lessons from Data Scientists: LinkedIn Learning](https://www.linkedin.com/learning-login/share?account=3322&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Flessons-from-data-scientists%3Ftrk%3Dshare_ent_url%26shareId%3Dz8kwfyJsRZypq%252FE5bEEjdQ%253D%253D)
