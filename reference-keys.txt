@@ -79,3 +79,4 @@ python-12
 r-11
 production-on-azure
 life-as-a-data-scientist
+additional-resources-7
