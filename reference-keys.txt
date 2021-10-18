@@ -79,4 +79,6 @@ python-12
 r-11
 production-on-azure
 life-as-a-data-scientist
+build-models-and-build-community
+coding-best-practices
 additional-resources-7
