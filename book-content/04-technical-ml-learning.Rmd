@@ -341,7 +341,6 @@
 
 ### Additional Resources
 
-
 * [Andrew Ng: Deep Learning, Education, and Real-World AI](https://www.youtube.com/watch?v=0jspaMLxBig)
 * [Nuts and Bolts of Applying Deep Learning](https://www.youtube.com/watch?v=F1ka6a13S9I)
 * [History of Deep Learning](https://www.youtube.com/watch?v=mTtDfKgLm54)
@@ -414,3 +413,8 @@
 
 <!-- ![](images/3.16.gif) -->
 <!-- [source](https://dilbert.com/strip/2018-04-03) -->
+
+### Additional Resources
+
+* [Lessons from Data Scientists: LinkedIn Learning](https://www.linkedin.com/learning-login/share?account=3322&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Flessons-from-data-scientists%3Ftrk%3Dshare_ent_url%26shareId%3Dz8kwfyJsRZypq%252FE5bEEjdQ%253D%253D)
+
