@@ -35,6 +35,10 @@ Getting started with the right developer environment can save tons of headaches 
 * [Installing R and RStudio](https://rstudio-education.github.io/hopr/starting.html)
 * [Install Packages](https://rstudio-education.github.io/hopr/packages2.html)
 
+### Additional Resources
+
+* [Python vs R for Data Science: LinkedIn Learning](https://www.linkedin.com/learning-login/share?account=3322&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fpython-vs-r-for-data-science%3Ftrk%3Dshare_ent_url%26shareId%3DKEdLTyAORsGrs2BKq5uLDg%253D%253D)
+
 ## Data Analysis and Manipulation
 
 <!-- ![](images/3.3.gif) -->
