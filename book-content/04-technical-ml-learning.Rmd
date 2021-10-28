@@ -462,5 +462,6 @@ Ready to commit to data science as a career? Check out the below content that fe
 
 ### Additional Resources
 
+* [An Old Hacker's Tips on Staying Employed](https://madned.substack.com/p/an-old-hackers-tips-on-staying-employed)
 * [Lessons from Data Scientists: LinkedIn Learning](https://www.linkedin.com/learning-login/share?account=3322&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Flessons-from-data-scientists%3Ftrk%3Dshare_ent_url%26shareId%3Dz8kwfyJsRZypq%252FE5bEEjdQ%253D%253D)
 
