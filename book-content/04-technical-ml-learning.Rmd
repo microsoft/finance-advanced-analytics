@@ -2,6 +2,8 @@
 
 ## Introduction
 
+To-DO
+
 ### Opening Thoughts
 * There are many ways to learn technical material. Paid courses, YouTube videos, blog posts, and books are all equally effective based on your learning style. The content in the following sections tries to have a healthy balance of all content types. 
 * By default, all of the recommended learning content is free. There are additional resources mentioned where you might have to pay for. These serve as additional avenues to strengthen the concepts and techniques learned in the initial free content. 
