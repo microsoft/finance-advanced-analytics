@@ -2,9 +2,9 @@
 
 ## Intro to AI
 
-### Introduction
+### Opening Thoughts
 
-TO-DO
+Learning high level concepts and first principles helps to build a strong AI foundation that serves many purposes. Knowing the basics can help you better understand how AI could be applied in your company, how to work with data scientists, and even how to best leverage self-serve AI tools. Check out the below resources to quickly get up to speed on all things AI and ML. 
 
 ### Overview of AI and ML
 

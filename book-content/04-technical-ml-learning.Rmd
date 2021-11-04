@@ -2,20 +2,22 @@
 
 ## Introduction
 
-To-DO
-
 ### Opening Thoughts
-* There are many ways to learn technical material. Paid courses, YouTube videos, blog posts, and books are all equally effective based on your learning style. The content in the following sections tries to have a healthy balance of all content types. 
-* By default, all of the recommended learning content is free. There are additional resources mentioned where you might have to pay for. These serve as additional avenues to strengthen the concepts and techniques learned in the initial free content. 
-* Machine Learning falls into two camps of programming languages, those who use R and those who leverage Python. Both have their strengths and weaknesses. All learning content will have an equal amount of resources for both R and Python.
+There are many ways to learn technical material. Paid courses, YouTube videos, blog posts, and books are all equally effective based on your learning style. The content in the following sections tries to have a healthy balance of all content types. 
+
+By default, all of the recommended learning content is free. There are additional resources mentioned where you might have to pay for. These serve as additional avenues to strengthen the concepts and techniques learned in the initial free content. 
+
+Machine Learning falls into two camps of programming languages, those who use R and those who leverage Python. Both have their strengths and weaknesses. All learning content will have an equal amount of resources for both R and Python.
 
 ### R or Python?
-* Short answer: Eventually you will have to learn both to become a successfully data practitioner, but if you could only pick one choose Python. 
+Short answer: Eventually you will have to learn both to become a successfully data practitioner, but if you could only pick one choose Python. 
 
 ### Getting the Most out of Learning
-* [Deliberate practice](https://jamesclear.com/deliberate-practice-theory) is the best way of getting the learning to stick, and to rapidly evolve your skills. 
-* **Whenever you learn something new in the data and AI world, it's best to usually apply it immediately to a real world project within your job or company.** By using a real world problem to practice what you just learned, you're able to reinforce the new knowledge into your long term memory while at the same time driving impact in your job by solving real problems. What a bonus! Be careful about only working on "toy datasets", which is public data that has been beat to death by hundreds of blogs and courses. The real world of data is messy and unpredictable, so working on things related to your current job or company gets you comfortable with that uncertainty even faster. 
-* Don't feel bad looking up things on Bing/Google. Every technical person who works with computers today most likely looks up things online every day. Software syntax takes time to learn, and some of the best engineers still don't remember all the ins and outs of a language. When it doubt look it up online! Sites like Stack Overflow will quickly become your best friend as you try to work through issues in your code.
+[Deliberate practice](https://jamesclear.com/deliberate-practice-theory) is the best way of getting the learning to stick, and to rapidly evolve your skills. 
+
+**Whenever you learn something new in the data and AI world, it's best to usually apply it immediately to a real world project within your job or company.** By using a real world problem to practice what you just learned, you're able to reinforce the new knowledge into your long term memory while at the same time driving impact in your job by solving real problems. What a bonus! Be careful about only working on "toy datasets", which is public data that has been beat to death by hundreds of blogs and courses. The real world of data is messy and unpredictable, so working on things related to your current job or company gets you comfortable with that uncertainty even faster. 
+
+Don't feel bad looking up things on Bing/Google. Every technical person who works with computers today most likely looks up things online every day. Software syntax takes time to learn, and some of the best engineers still don't remember all the ins and outs of a language. When it doubt look it up online! Sites like Stack Overflow will quickly become your best friend as you try to work through issues in your code.
 
 ## Installing Software
 
@@ -425,6 +427,8 @@ One of the harder aspects of machine learning is getting your work in a producti
 Ready to commit to data science as a career? Check out the below content that features interviews from existing data scientists and best practices to be a great data practitioner. 
 
 ### Build Models and Build Community
+
+To-DO
 
 ### Coding Best Practices
 
