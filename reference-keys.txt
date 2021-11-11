@@ -3,7 +3,7 @@ the-future
 recommendation
 into-to-ai
 intro-to-ai
-introduction
+opening-thoughts
 overview-of-ai-and-ml
 history-of-ai
 ai-ethics-and-fairness
@@ -15,8 +15,8 @@ general-ai-books
 multidisciplinary-thinking-and-mental-models
 innovation-and-systems-thinking
 technical-learning-ml
-introduction-1
-opening-thoughts
+introduction
+opening-thoughts-1
 r-or-python
 getting-the-most-out-of-learning
 installing-software
