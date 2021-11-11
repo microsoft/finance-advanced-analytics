@@ -357,6 +357,7 @@ A lot of times you may be asked to help understand how a particular machine lear
 ### High Level Topics
 
 * [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
+* [Intro to SHAP](https://www.aidancooper.co.uk/a-non-technical-guide-to-interpreting-shap-analyses/)
 
 ### Python
 
