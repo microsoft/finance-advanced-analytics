@@ -52,7 +52,8 @@ Learning high level concepts and first principles helps to build a strong AI fou
 
 ### General AI Books
 
-* [Reprogamming the American Dream](https://www.amazon.com/Reprogramming-American-Dream-America-Valley-Making-ebook/dp/B07V1W37XK/ref=sr_1_1?crid=2OAPWAOX7DY27&dchild=1&keywords=reprogramming+the+american+dream&qid=1632757570&s=books&sprefix=reprogammning+the+%2Caps%2C258&sr=1-1)
+* [Reprogamming the American Dream: Kevin Scott](https://www.amazon.com/Reprogramming-American-Dream-America-Valley-Making-ebook/dp/B07V1W37XK/ref=sr_1_1?crid=2OAPWAOX7DY27&dchild=1&keywords=reprogramming+the+american+dream&qid=1632757570&s=books&sprefix=reprogammning+the+%2Caps%2C258&sr=1-1)
+* [Data Driven: DJ Patil and Hilary Mason](https://learning.oreilly.com/library/view/data-driven/9781491925454/)
 
 ### Multidisciplinary Thinking and Mental Models
 
