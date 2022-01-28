@@ -82,7 +82,9 @@ production-on-azure
 data-storage
 general-data-analytics
 machine-learning
+additional-resources-8
 life-as-a-data-scientist
 build-models-and-build-community
 coding-best-practices
-additional-resources-8
+getting-a-job
+additional-resources-9
