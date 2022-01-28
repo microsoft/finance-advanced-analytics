@@ -1,8 +1,8 @@
 # Preface {-}
 
-We see this book evolving across multiple aspects of advanced analytics (AA). Each section helps to answer important questions we get receive from other finance teams. The current layout is planned below. 
+We see this book evolving across multiple aspects of advanced analytics (AA). Each section helps to answer important questions we get from other finance teams. The current layout is planned below. 
 
-* **Learning Path**: Dedicated to providing free resources to learn about Artificial Intelligence and Machine Learning at a high level, as well as content to dive deeper into the technical side. We hope this section gives your finance team to resources to ramp up on these new skills and develop data intuition to drive advanced analytics work on your team. 
+* **Learning Path**: Dedicated to providing free resources to learn about Artificial Intelligence and Machine Learning at a high level, as well as content to dive deeper into the technical side. We hope this section gives your finance team the resources to ramp up on these new skills and develop data intuition to drive advanced analytics work on your team. 
 
 * **AA at Microsoft**: Reviews the journey that Microsoft Finance went through when trying to build up our advanced analytics practice. Goes deep into our strategy and business model with machine learning, and how we approach adoption with our business partners. 
 

@@ -15,7 +15,7 @@ Short answer: Eventually you will have to learn both to become a successfully da
 ### Getting the Most out of Learning
 [Deliberate practice](https://jamesclear.com/deliberate-practice-theory) is the best way of getting the learning to stick, and to rapidly evolve your skills. 
 
-**Whenever you learn something new in the data and AI world, it's best to usually apply it immediately to a real world project within your job or company.** By using a real world problem to practice what you just learned, you're able to reinforce the new knowledge into your long term memory while at the same time driving impact in your job by solving real problems. What a bonus! Be careful about only working on "toy datasets", which is public data that has been beat to death by hundreds of blogs and courses. The real world of data is messy and unpredictable, so working on things related to your current job or company gets you comfortable with that uncertainty even faster. 
+**Whenever you learn something new in the data and AI world, it's best to usually apply it immediately to a real world project within your job or company.** By using a real world problem to practice what you just learned, you're able to reinforce the new knowledge into your long term memory while at the same time driving impact in your job by solving real problems. What a bonus! Be careful about only working on "toy data sets", which is public data that has been beat to death by hundreds of blogs and courses. The real world of data is messy and unpredictable, so working on things related to your current job or company gets you comfortable with that uncertainty even faster. 
 
 Don't feel bad looking up things on Bing/Google. Every technical person who works with computers today most likely looks up things online every day. Software syntax takes time to learn, and some of the best engineers still don't remember all the ins and outs of a language. When it doubt look it up online! Sites like Stack Overflow will quickly become your best friend as you try to work through issues in your code.
 
@@ -42,6 +42,7 @@ Getting started with the right developer environment can save tons of headaches 
 Learning how to manipulate data outside of existing tools like Excel or Power BI quickly give you data super powers you never thought possible before. Breaking out of the four walls of excel and into the data universe by leveraging languages like Python and R unlock so much more potential for impact in whatever job you do. Even if you don't plan to build your own Machine Learning models, knowing the basics of data manipulation is an important skill to have, and builds a data foundation that Machine Learning is built upon if you ever want to come back and start building models. 
 
 ### Python
+* [Python for Data Analysis](https://wesmckinney.com/book/)
 * Pick one of the following
     + [Option 1 - Free Code Camp](https://www.freecodecamp.org/learn/data-analysis-with-python/)
     + [Option 2 - Zero to Pandas](https://www.youtube.com/watch?v=EsDFiZPljYo&list=PLWKjhJtqVAblvI1i46ScbKV2jH1gdL7VQ)
@@ -50,6 +51,7 @@ Learning how to manipulate data outside of existing tools like Excel or Power BI
 
 ### R
 
+* [New to R? Start Here](https://www.bigbookofr.com/new-to-r-start-here.html)
 * [Basics of R](https://rstudio-education.github.io/hopr/index.html)
 * [Manipulating Data](https://r4ds.had.co.nz/index.html) (skip "Model" chapter)
 * [Automating Excel in R](https://www.youtube.com/watch?v=EMSkZOF-ZG8)
@@ -103,8 +105,10 @@ Future sections will cover most of these topics again but in more depth. Having 
 
 ### High Level Topics
 
+* [Building AI](https://buildingai.elementsofai.com/)
 * [Three Things to do when Starting Out in Data Science](https://www.youtube.com/watch?v=ilUbD7EoQnk)
 * [Types of ML Models](https://www.youtube.com/watch?v=yN7ypxC7838)
+* [Making Friends with Machine Learning](https://www.youtube.com/playlist?list=PLRKtJ4IpxJpDxl0NTvNYQWKCYzHNuy2xG)
 * [Gradient Descent: Step-by-Step](https://www.youtube.com/watch?v=sDv4f4s2SB8)
 * [ML Fundamentals: Cross Validation](https://www.youtube.com/watch?v=fSytzGwwBVw)
 
@@ -141,6 +145,7 @@ Future sections will cover most of these topics again but in more depth. Having 
 * [Companion Book to Introduction to Statistical Learning](https://emilhvitfeldt.github.io/ISLR-tidymodels-labs/index.html) - R 
 * [R Cheat Sheet](https://www.business-science.io/r-cheatsheet?utm_content=buffer832d4&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) - R
 * [Practical Data Science with R](https://learning.oreilly.com/library/view/practical-data-science/9781617295874/) - R
+* [Modern Data Science with R](https://mdsr-book.github.io/mdsr2e/) - R
 
 ## Regression
 
@@ -222,8 +227,11 @@ While most regression models can be turned into a time series model by incorpora
 
 ### Additional Learning Resources
 
+* [Forecasting: Theory and Practice](https://www.sciencedirect.com/science/article/pii/S0169207021001758)
 * [Machine Learning for Time Series with Python](https://www.youtube.com/watch?v=cBojo1hsHiI) - Python
 * [Practical Time Series Analysis](https://learning.oreilly.com/library/view/practical-time-series/9781492041641/) - Python
+* [Darts Package](https://unit8co.github.io/darts/index.html) - Python
+* [Various Resources](https://www.bigbookofr.com/time-series-analysis-and-forecasting.html) - R
 * [Time Series Forecasting: Business Science University](https://university.business-science.io/p/ds4b-203-r-high-performance-time-series-forecasting) - R
 
 ## Classification
@@ -279,7 +287,7 @@ Classification models are some of the most widely used machine learning across i
 
 ## Unsupervised Learning
 
-Unsupervised learning is an evolving field of machine learning, and many say is the future of AI in general. Instead of relying on existing data with known outcomes to learn from like supervised learning (regression and classification), unsupervised learning tries to learn its own unique things about a data set without needing to know the answer ahead of time. This can be a game changer in finance when trying to segment customers into specific groups based on their purchasing behavior or finding anomolies to flag for potential fraud or corruption.
+Unsupervised learning is an evolving field of machine learning, and many say is the future of AI in general. Instead of relying on existing data with known outcomes to learn from like supervised learning (regression and classification), unsupervised learning tries to learn its own unique things about a data set without needing to know the answer ahead of time. This can be a game changer in finance when trying to segment customers into specific groups based on their purchasing behavior or finding anomalies to flag for potential fraud or corruption.
 
 ### Python
 
@@ -335,6 +343,7 @@ The most rapidly evolving area of AI is deep learning, which use a completely ne
 
 * [Practical Deep Learning for Coders](https://course.fast.ai/)
 * [Train and Evaluate Deep Learning Models: Microsoft](https://docs.microsoft.com/en-us/learn/modules/train-evaluate-deep-learn-models/)
+* [Deep Learning in Tensorflow](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)
 
 ### R
 
@@ -348,11 +357,12 @@ The most rapidly evolving area of AI is deep learning, which use a completely ne
 * [Deep Learning for Coders with fastai and PyTorch](https://learning.oreilly.com/library/view/deep-learning-for/9781492045519/) - Python
 * [Deep Learning: Coursera](https://www.coursera.org/specializations/deep-learning#courses) - Python
 * [Computer Vision Tutorial: Kaggle](https://www.kaggle.com/learn/computer-vision) - Python
+* [Deep Learning with Tensorflow](https://learning.oreilly.com/library/view/deep-learning-with/9781617296864/) - Python
 * [Deep Learning with R](https://learning.oreilly.com/library/view/deep-learning-with/9781617295546/) - R
 
 ## Model Interpretability
 
-A lot of times you may be asked to help understand how a particular machine learning model came up with its prediction. Knowing how to leverage various interpretability frameworks helps decode the black box of these models for better adoption by non-technical business partners and enables better understanding what features are most impactful in your model. 
+A lot of times you may be asked to help understand how a particular machine learning model came up with its prediction. Knowing how to leverage various interpretability frameworks helps decode the black box of these models for better adoption by non-technical business partners and enables better understanding what features have the most impact in your model. 
 
 ### High Level Topics
 
@@ -423,6 +433,10 @@ One of the harder aspects of machine learning is getting your work in a producti
 * [Automated Machine Learning](https://docs.microsoft.com/en-us/azure/machine-learning/concept-automated-ml)
 * [ML Pipelines](https://docs.microsoft.com/en-us/azure/machine-learning/concept-ml-pipelines)
 
+### Additional Resources
+
+* [Azure Friday](https://www.azurefriday.com/)
+
 ## Life as a Data Scientist
 
 Ready to commit to data science as a career? Check out the below content that features interviews from existing data scientists and best practices to be a great data practitioner. 
@@ -435,8 +449,15 @@ To-DO
 
 * [Best Practice for Writing Code Comments](https://stackoverflow.blog/2021/07/05/best-practices-for-writing-code-comments/?utm_medium=email&utm_source=topic+optin&utm_campaign=awareness&utm_content=20210828+prog+nl&mkt_tok=MTA3LUZNUy0wNzAAAAF_LK1OjKlqDG9SxsVfzMCGmwO5ZelBS-fBHGWHz3FyjGzK_06soVvuT7ljzYAZYITpbG8uwSSDfuC45Z0MP5qLgyunNstZqBDys4jaWHFFSczZ)
 
+### Getting a Job
+
+* [Career and Community Resources](https://www.bigbookofr.com/career-and-community.html)
+* [Deep Learning Interview Questions](https://arxiv.org/abs/2201.00650)
+
+
 ### Additional Resources
 
 * [An Old Hacker's Tips on Staying Employed](https://madned.substack.com/p/an-old-hackers-tips-on-staying-employed)
 * [Lessons from Data Scientists: LinkedIn Learning](https://www.linkedin.com/learning-login/share?account=3322&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Flessons-from-data-scientists%3Ftrk%3Dshare_ent_url%26shareId%3Dz8kwfyJsRZypq%252FE5bEEjdQ%253D%253D)
+* [Building Data Science Teams](https://learning.oreilly.com/library/view/building-data-science/BLDNGDST0001/)
 

@@ -9,6 +9,7 @@ Learning high level concepts and first principles helps to build a strong AI fou
 ### Overview of AI and ML
 
 * [AI for Everyone - Coursera](https://www.coursera.org/learn/ai-for-everyone#syllabus)
+* [Elements of AI](https://course.elementsofai.com/)
 * [AI Terminology](https://www.youtube.com/watch?v=YPD4k730BRQ&list=PLl2kx2ZZbFQT1ZCf8oTFogg8J80FJGse2&index=5)
 * [Simple ML Example Walkthrough](https://www.youtube.com/watch?v=Gv9_4yMHFhI&list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF&index=2)
 * [Time Series Forecasting Overview](https://otexts.com/fpp3/intro.html) (Just Chapter 1)
