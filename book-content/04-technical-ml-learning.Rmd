@@ -24,56 +24,56 @@ Don't feel bad looking up things on Bing/Google. Every technical person who work
 Getting started with the right developer environment can save tons of headaches further down the road. While there are many options on what type of Interactive Developer Environment's (IDE) to use, the below ones are quickly becoming the standard for each language. 
 
 ### Python
-* [Coding Tools for Python Development](https://docs.microsoft.com/en-us/learn/modules/install-code-tools-python-nasa/)
-* [VSCode Python Setup](https://www.youtube.com/playlist?list=PLo32uKohmrXt7VB91DLB-hMcDcWswE53Y)
-* [Install Packages - Windows](https://www.activestate.com/resources/quick-reads/python-package-installation-on-windows/)
-* [Install Packages - Mac](https://blog.quantinsti.com/installing-python-packages/)
+* [Coding Tools for Python Development 📃](https://docs.microsoft.com/en-us/learn/modules/install-code-tools-python-nasa/)
+* [VSCode Python Setup 📹](https://www.youtube.com/playlist?list=PLo32uKohmrXt7VB91DLB-hMcDcWswE53Y)
+* [Install Packages - Windows 📃](https://www.activestate.com/resources/quick-reads/python-package-installation-on-windows/)
+* [Install Packages - Mac 📃](https://blog.quantinsti.com/installing-python-packages/)
 
 ### R
-* [Installing R and RStudio](https://rstudio-education.github.io/hopr/starting.html)
-* [Install Packages](https://rstudio-education.github.io/hopr/packages2.html)
+* [Installing R and RStudio 📃](https://rstudio-education.github.io/hopr/starting.html)
+* [Install Packages 📃](https://rstudio-education.github.io/hopr/packages2.html)
 
 ### Additional Resources
 
-* [Python vs R for Data Science: LinkedIn Learning](https://www.linkedin.com/learning-login/share?account=3322&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fpython-vs-r-for-data-science%3Ftrk%3Dshare_ent_url%26shareId%3DKEdLTyAORsGrs2BKq5uLDg%253D%253D)
+* [Python vs R for Data Science: LinkedIn Learning 🏫](https://www.linkedin.com/learning-login/share?account=3322&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fpython-vs-r-for-data-science%3Ftrk%3Dshare_ent_url%26shareId%3DKEdLTyAORsGrs2BKq5uLDg%253D%253D)
 
 ## Data Analysis and Manipulation
 
 Learning how to manipulate data outside of existing tools like Excel or Power BI quickly give you data super powers you never thought possible before. Breaking out of the four walls of excel and into the data universe by leveraging languages like Python and R unlock so much more potential for impact in whatever job you do. Even if you don't plan to build your own Machine Learning models, knowing the basics of data manipulation is an important skill to have, and builds a data foundation that Machine Learning is built upon if you ever want to come back and start building models. 
 
 ### Python
-* [Python for Data Analysis](https://wesmckinney.com/book/)
+* [Python for Data Analysis 📕](https://wesmckinney.com/book/)
 * Pick one of the following
-    + [Option 1 - Free Code Camp](https://www.freecodecamp.org/learn/data-analysis-with-python/)
-    + [Option 2 - Zero to Pandas](https://www.youtube.com/watch?v=EsDFiZPljYo&list=PLWKjhJtqVAblvI1i46ScbKV2jH1gdL7VQ)
-    + [Option 3 - 12 Hour Course](https://www.youtube.com/watch?v=EsDFiZPljYo&list=PLWKjhJtqVAblvI1i46ScbKV2jH1gdL7VQ)
-* [Exploratory Reports](https://www.youtube.com/watch?v=-Cdv9C9hLeE)
+    + [Option 1 - Free Code Camp 📹](https://www.freecodecamp.org/learn/data-analysis-with-python/)
+    + [Option 2 - Zero to Pandas 📹](https://www.youtube.com/watch?v=EsDFiZPljYo&list=PLWKjhJtqVAblvI1i46ScbKV2jH1gdL7VQ)
+    + [Option 3 - 12 Hour Course 📹](https://www.youtube.com/watch?v=EsDFiZPljYo&list=PLWKjhJtqVAblvI1i46ScbKV2jH1gdL7VQ)
+* [Exploratory Reports 📹](https://www.youtube.com/watch?v=-Cdv9C9hLeE)
 
 ### R
 
-* [New to R? Start Here](https://www.bigbookofr.com/new-to-r-start-here.html)
-* [Basics of R](https://rstudio-education.github.io/hopr/index.html)
-* [Manipulating Data](https://r4ds.had.co.nz/index.html) (skip "Model" chapter)
-* [Automating Excel in R](https://www.youtube.com/watch?v=EMSkZOF-ZG8)
-* [Business Reporting in RMarkdown](https://www.youtube.com/watch?v=mszKt0i4yuY)
-* [Exploratory Reports](https://www.youtube.com/watch?v=ssVEoj54rx4)
-* [Fundamental of Data Visualization](https://clauswilke.com/dataviz/)
-* [R Graphics Cookbook](https://r-graphics.org/)
+* [New to R? Start Here 📕](https://www.bigbookofr.com/new-to-r-start-here.html)
+* [Basics of R 📕](https://rstudio-education.github.io/hopr/index.html)
+* [Manipulating Data 📕](https://r4ds.had.co.nz/index.html) (skip "Model" chapter)
+* [Automating Excel in R 📹](https://www.youtube.com/watch?v=EMSkZOF-ZG8)
+* [Business Reporting in RMarkdown 📹](https://www.youtube.com/watch?v=mszKt0i4yuY)
+* [Exploratory Reports 📹](https://www.youtube.com/watch?v=ssVEoj54rx4)
+* [Fundamental of Data Visualization 📕](https://clauswilke.com/dataviz/)
+* [R Graphics Cookbook 📕](https://r-graphics.org/)
 
 ### Additional Resources
 
-* [Explore and Analyze Data in Python:  Microsoft](https://docs.microsoft.com/en-us/learn/modules/explore-analyze-data-with-python/) - Python
-* [Python for Data Analysis](https://www.oreilly.com/library/view/python-for-data/9781491957653/) - Python
-* [Python for Excel](https://www.oreilly.com/library/view/python-for-excel/9781492080992/) - Python
-* [Data Cleaning Tutorial: Kaggle](https://www.kaggle.com/learn/data-cleaning) - Python
-* [Pandas Tutorial: Kaggle](https://www.kaggle.com/learn/pandas) - Python
-* [Data Visualization Tutorial: Kaggle](https://www.kaggle.com/learn/data-visualization) - Python
-* [Python Crash Course](https://www.amazon.com/Python-Crash-Course-2nd-Edition/dp/1593279280) - Python
-* [Advancing Into Analytics](https://www.oreilly.com/library/view/advancing-into-analytics/9781492094333/) - Python/R
-* [Python and R for the Modern Data Scientist](https://www.oreilly.com/library/view/python-and-r/9781492093398/) - Python/R
-* [R Programming Tutorial: Learn the Basics of Statistical Computing](https://www.youtube.com/watch?v=_V8eKsto3Ug&list=PLWKjhJtqVAblQe2CCWqV4Zy3LY01Z8aF1&index=9) - R
-* [Data Transformation Cheat Sheet](https://github.com/rstudio/cheatsheets/raw/master/data-transformation.pdf ) - R
-* [R Basics: Harvard](https://www.classcentral.com/course/edx-data-science-r-basics-9253) - R
+* [Explore and Analyze Data in Python:  Microsoft 📃](https://docs.microsoft.com/en-us/learn/modules/explore-analyze-data-with-python/) - Python
+* [Python for Data Analysis 📕](https://www.oreilly.com/library/view/python-for-data/9781491957653/) - Python
+* [Python for Excel 📕](https://www.oreilly.com/library/view/python-for-excel/9781492080992/) - Python
+* [Data Cleaning Tutorial: Kaggle 🏫](https://www.kaggle.com/learn/data-cleaning) - Python
+* [Pandas Tutorial: Kaggle 🏫](https://www.kaggle.com/learn/pandas) - Python
+* [Data Visualization Tutorial: Kaggle 🏫](https://www.kaggle.com/learn/data-visualization) - Python
+* [Python Crash Course 📕](https://www.amazon.com/Python-Crash-Course-2nd-Edition/dp/1593279280) - Python
+* [Advancing Into Analytics 📕](https://www.oreilly.com/library/view/advancing-into-analytics/9781492094333/) - Python/R
+* [Python and R for the Modern Data Scientist 📕](https://www.oreilly.com/library/view/python-and-r/9781492093398/) - Python/R
+* [R Programming Tutorial: Learn the Basics of Statistical Computing 📹](https://www.youtube.com/watch?v=_V8eKsto3Ug&list=PLWKjhJtqVAblQe2CCWqV4Zy3LY01Z8aF1&index=9) - R
+* [Data Transformation Cheat Sheet 📃](https://github.com/rstudio/cheatsheets/raw/master/data-transformation.pdf ) - R
+* [R Basics: Harvard 🏫](https://www.classcentral.com/course/edx-data-science-r-basics-9253) - R
 
 
 ## Version Control
@@ -82,20 +82,20 @@ If you plan to work with others on any project that contains code, knowing versi
 
 ### High Level Overview
 
-* [Git and GitHub for Beginners](https://www.youtube.com/watch?v=RGOj5yH7evk&t=491s)
-* [Git for Professionals](https://www.youtube.com/watch?v=Uszj_k0DGsg)
+* [Git and GitHub for Beginners 📹](https://www.youtube.com/watch?v=RGOj5yH7evk&t=491s)
+* [Git for Professionals 📹](https://www.youtube.com/watch?v=Uszj_k0DGsg)
 
 ### Python
 
-* [VSCode Github Project Setup](https://www.youtube.com/watch?v=e-qQDuswx2I)
+* [VSCode Github Project Setup 📹](https://www.youtube.com/watch?v=e-qQDuswx2I)
 
 ### R
 
-* [Happy Git and GitHub for the useR](https://happygitwithr.com/)
-* [Setup R Project from GitHub](https://www.youtube.com/watch?v=F7aYV0RPyD0)
+* [Happy Git and GitHub for the useR 📕](https://happygitwithr.com/)
+* [Setup R Project from GitHub 📹](https://www.youtube.com/watch?v=F7aYV0RPyD0)
 
 ### Additional Resources
-* [Contribute to an Open-Source Project on GitHub](https://docs.microsoft.com/en-us/learn/modules/contribute-open-source/)
+* [Contribute to an Open-Source Project on GitHub 📃](https://docs.microsoft.com/en-us/learn/modules/contribute-open-source/)
 
 ## Machine Learning Basics
 
@@ -105,47 +105,47 @@ Future sections will cover most of these topics again but in more depth. Having 
 
 ### High Level Topics
 
-* [Building AI](https://buildingai.elementsofai.com/)
-* [Three Things to do when Starting Out in Data Science](https://www.youtube.com/watch?v=ilUbD7EoQnk)
-* [Types of ML Models](https://www.youtube.com/watch?v=yN7ypxC7838)
-* [Making Friends with Machine Learning](https://www.youtube.com/playlist?list=PLRKtJ4IpxJpDxl0NTvNYQWKCYzHNuy2xG)
-* [Gradient Descent: Step-by-Step](https://www.youtube.com/watch?v=sDv4f4s2SB8)
-* [ML Fundamentals: Cross Validation](https://www.youtube.com/watch?v=fSytzGwwBVw)
+* [Building AI 🏫](https://buildingai.elementsofai.com/)
+* [Three Things to do when Starting Out in Data Science 📹](https://www.youtube.com/watch?v=ilUbD7EoQnk)
+* [Types of ML Models 📹](https://www.youtube.com/watch?v=yN7ypxC7838)
+* [Making Friends with Machine Learning 📹](https://www.youtube.com/playlist?list=PLRKtJ4IpxJpDxl0NTvNYQWKCYzHNuy2xG)
+* [Gradient Descent: Step-by-Step 📹](https://www.youtube.com/watch?v=sDv4f4s2SB8)
+* [ML Fundamentals: Cross Validation 📹](https://www.youtube.com/watch?v=fSytzGwwBVw)
 
 ### Python
 
-* [Intro to Machine Learning: Kaggle](https://www.kaggle.com/learn/intro-to-machine-learning)
-* [Intermediate Machine Learning: Kaggle](https://www.kaggle.com/learn/intermediate-machine-learning)
-* [Feature Egnineering: Kaggle](https://www.kaggle.com/learn/feature-engineering)
-* [Exploratory Data Analysis #1](https://www.youtube.com/watch?v=-Cdv9C9hLeE)
-* [Exploratory Data Analysis #2](https://www.youtube.com/watch?v=CCy0JAB_fbo)
-* [Scikit-Learn Crash Course](https://www.youtube.com/watch?v=0B5eIE_1vpU)
-* [PyCaret Guide](https://pycaret.org/guide/)
+* [Intro to Machine Learning: Kaggle 🏫](https://www.kaggle.com/learn/intro-to-machine-learning)
+* [Intermediate Machine Learning: Kaggle 🏫](https://www.kaggle.com/learn/intermediate-machine-learning)
+* [Feature Egnineering: Kaggle 🏫](https://www.kaggle.com/learn/feature-engineering)
+* [Exploratory Data Analysis #1 📹](https://www.youtube.com/watch?v=-Cdv9C9hLeE)
+* [Exploratory Data Analysis #2 📹](https://www.youtube.com/watch?v=CCy0JAB_fbo)
+* [Scikit-Learn Crash Course 📹](https://www.youtube.com/watch?v=0B5eIE_1vpU)
+* [PyCaret Guide 📃](https://pycaret.org/guide/)
 
 ### R
 
-* [Tidy Modeling with R](https://www.tmwr.org/index.html)
-* [Intro to ML with Parsnip](https://www.youtube.com/watch?v=2Zcwa7HPg5w&list=PLo32uKohmrXvDwyyty6pC4mcWER5tSdmO&index=10)
-* [Supervised ML Case Studies in R](https://supervised-ml-course.netlify.app/)
-* [Exploratory Data Analysis](https://www.youtube.com/watch?v=ssVEoj54rx4)
-* [Business Reporting in R with Rmarkdown](https://www.youtube.com/watch?v=mszKt0i4yuY)
+* [Tidy Modeling with R 📕](https://www.tmwr.org/index.html)
+* [Intro to ML with Parsnip 📹](https://www.youtube.com/watch?v=2Zcwa7HPg5w&list=PLo32uKohmrXvDwyyty6pC4mcWER5tSdmO&index=10)
+* [Supervised ML Case Studies in R 🏫](https://supervised-ml-course.netlify.app/)
+* [Exploratory Data Analysis 📹](https://www.youtube.com/watch?v=ssVEoj54rx4)
+* [Business Reporting in R with Rmarkdown 📹](https://www.youtube.com/watch?v=mszKt0i4yuY)
 
 ### Additional Resources
 
-* [PCA Main Ideas](https://www.youtube.com/watch?v=HMOI_lkzW08)
-* [Introduction to Machine Learning: Microsoft](https://docs.microsoft.com/en-us/learn/modules/introduction-to-machine-learning/) - Python
-* [Introduction to Machine Learning : Udemy](https://www.classcentral.com/course/udemy-introduction-to-data-science-using-python-25723) - Python
-* [Machine Learning for Beginners](https://github.com/microsoft/ML-For-Beginners) - Python
-* [Best Python Machine Learning Libraries](https://github.com/ml-tooling/best-of-ml-python) - Python
-* [Analytical Skills for AI & Data Science](https://learning.oreilly.com/library/view/analytical-skills-for/9781492060932/) - Python
-* [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://learning.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) - Python
-* [Avoiding Machine Learning Mistakes: LinkedIn Learning](https://www.linkedin.com/learning-login/share?account=3322&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fmistakes-to-avoid-in-machine-learning%3Ftrk%3Dshare_ent_url%26shareId%3D8%252BBs8riLTDmpKQwusvciAQ%253D%253D) - Python
-* [Microsoft Approved Data Science Learning Resources](https://medium.com/data-science-at-microsoft/data-science-learning-resources-193ccf6fafb) - Python/R
-* [Introduction to Statistical Learning](https://www.statlearning.com/) - R
-* [Companion Book to Introduction to Statistical Learning](https://emilhvitfeldt.github.io/ISLR-tidymodels-labs/index.html) - R 
-* [R Cheat Sheet](https://www.business-science.io/r-cheatsheet?utm_content=buffer832d4&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) - R
-* [Practical Data Science with R](https://learning.oreilly.com/library/view/practical-data-science/9781617295874/) - R
-* [Modern Data Science with R](https://mdsr-book.github.io/mdsr2e/) - R
+* [PCA Main Ideas 📹](https://www.youtube.com/watch?v=HMOI_lkzW08)
+* [Introduction to Machine Learning: Microsoft 🏫](https://docs.microsoft.com/en-us/learn/modules/introduction-to-machine-learning/) - Python
+* [Introduction to Machine Learning : Udemy 🏫](https://www.classcentral.com/course/udemy-introduction-to-data-science-using-python-25723) - Python
+* [Machine Learning for Beginners 📕](https://github.com/microsoft/ML-For-Beginners) - Python
+* [Best Python Machine Learning Libraries 📃](https://github.com/ml-tooling/best-of-ml-python) - Python
+* [Analytical Skills for AI & Data Science 📕](https://learning.oreilly.com/library/view/analytical-skills-for/9781492060932/) - Python
+* [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow 📕](https://learning.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) - Python
+* [Avoiding Machine Learning Mistakes: LinkedIn Learning 🏫](https://www.linkedin.com/learning-login/share?account=3322&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fmistakes-to-avoid-in-machine-learning%3Ftrk%3Dshare_ent_url%26shareId%3D8%252BBs8riLTDmpKQwusvciAQ%253D%253D) - Python
+* [Microsoft Approved Data Science Learning Resources 📃](https://medium.com/data-science-at-microsoft/data-science-learning-resources-193ccf6fafb) - Python/R
+* [Introduction to Statistical Learning 📕](https://www.statlearning.com/) - R
+* [Companion Book to Introduction to Statistical Learning 📃](https://emilhvitfeldt.github.io/ISLR-tidymodels-labs/index.html) - R 
+* [R Cheat Sheet 📃](https://www.business-science.io/r-cheatsheet?utm_content=buffer832d4&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) - R
+* [Practical Data Science with R 📕](https://learning.oreilly.com/library/view/practical-data-science/9781617295874/) - R
+* [Modern Data Science with R 📕](https://mdsr-book.github.io/mdsr2e/) - R
 
 ## Regression
 
@@ -153,43 +153,43 @@ Regression deals with predicting numerical quantities. It will quickly become yo
 
 ### High Level Topics
 
-* [Making Friends with Regression](https://www.youtube.com/watch?v=WNvOtwP_yf4)
-* [Evaluation Metrics for Regression Models](https://www.analyticsvidhya.com/blog/2021/05/know-the-best-evaluation-metrics-for-your-regression-model/#:~:text=%20Know%20The%20Best%20Evaluation%20Metrics%20for%20Your,is%20clear%20by%20the%20name%20itself%2C...%20More%20)
+* [Making Friends with Regression 📹](https://www.youtube.com/watch?v=WNvOtwP_yf4)
+* [Evaluation Metrics for Regression Models 📃](https://www.analyticsvidhya.com/blog/2021/05/know-the-best-evaluation-metrics-for-your-regression-model/#:~:text=%20Know%20The%20Best%20Evaluation%20Metrics%20for%20Your,is%20clear%20by%20the%20name%20itself%2C...%20More%20)
 
 ### Python
 
-* [Train and Evaluate Regression Models: Microsoft](https://docs.microsoft.com/en-us/learn/modules/train-evaluate-regression-models/)
-* [Train and Understand Regression Models: Microsoft](https://docs.microsoft.com/en-us/learn/modules/understand-regression-machine-learning/)
-* [PyCaret Tutorials](https://pycaret.readthedocs.io/en/latest/tutorials.html#regression)
-* [E-Commerce Tutorial](https://github.com/ishikkkkaaaa/ML-Projects/tree/main/1-E%20COMMERCE)
-* [USA Housing Tutorial](https://github.com/ishikkkkaaaa/ML-Projects/tree/main/2-USA%20housing)
+* [Train and Evaluate Regression Models: Microsoft 🏫](https://docs.microsoft.com/en-us/learn/modules/train-evaluate-regression-models/)
+* [Train and Understand Regression Models: Microsoft 🏫](https://docs.microsoft.com/en-us/learn/modules/understand-regression-machine-learning/)
+* [PyCaret Tutorials 📃](https://pycaret.readthedocs.io/en/latest/tutorials.html#regression)
+* [E-Commerce Tutorial 📃](https://github.com/ishikkkkaaaa/ML-Projects/tree/main/1-E%20COMMERCE)
+* [USA Housing Tutorial 📃](https://github.com/ishikkkkaaaa/ML-Projects/tree/main/2-USA%20housing)
 
 ### R
 
-* [Lasso Regression Tutorial](https://juliasilge.com/blog/lasso-the-office/)
-* [Tune and Interpret Decision Trees Tutorial](https://juliasilge.com/blog/wind-turbine/)
-* [Tune Random Forests Tutorial](https://juliasilge.com/blog/ikea-prices/)
-* [Custom Metric Evaluation Tutorial](https://juliasilge.com/blog/nyc-airbnb/)
-* [Bagging Tutorial](https://juliasilge.com/blog/astronaut-missions-bagging/)
-* [Using Text as Features Tutorial](https://juliasilge.com/blog/tate-collection/)
+* [Lasso Regression Tutorial 📃](https://juliasilge.com/blog/lasso-the-office/)
+* [Tune and Interpret Decision Trees Tutorial 📃](https://juliasilge.com/blog/wind-turbine/)
+* [Tune Random Forests Tutorial 📃](https://juliasilge.com/blog/ikea-prices/)
+* [Custom Metric Evaluation Tutorial 📃](https://juliasilge.com/blog/nyc-airbnb/)
+* [Bagging Tutorial 📃](https://juliasilge.com/blog/astronaut-missions-bagging/)
+* [Using Text as Features Tutorial 📃](https://juliasilge.com/blog/tate-collection/)
 
 ### How Various Models Work
 
-* [Fitting a Line to Data: Least Squares](https://www.youtube.com/watch?v=PaFPbb66DxQ)
-* [Linear Models #1](https://www.youtube.com/watch?v=nk2CQITm_eo)
-* [Linear Models #2](https://www.youtube.com/watch?v=zITIFTsivN8)
-* [Regularization #1](https://www.youtube.com/watch?v=Q81RR3yKn30)
-* [Regularization #2](https://www.youtube.com/watch?v=NGf0voTMlcs)
-* [Regularization #3](https://www.youtube.com/watch?v=1dKRdX9bfIo)
-* [Decision Trees](https://www.youtube.com/watch?v=g9c66TUylZ4)
-* [Random Forest](https://www.youtube.com/watch?v=J4Wdy0Wc_xQ)
-* [Gradient Boost](https://www.youtube.com/watch?v=3CC4N4z3GJc)
-* [XGBoost](https://www.youtube.com/watch?v=OtD8wVaFm6E)
+* [Fitting a Line to Data: Least Squares 📹](https://www.youtube.com/watch?v=PaFPbb66DxQ)
+* [Linear Models #1 📹](https://www.youtube.com/watch?v=nk2CQITm_eo)
+* [Linear Models #2 📹](https://www.youtube.com/watch?v=zITIFTsivN8)
+* [Regularization #1 📹](https://www.youtube.com/watch?v=Q81RR3yKn30)
+* [Regularization #2 📹](https://www.youtube.com/watch?v=NGf0voTMlcs)
+* [Regularization #3 📹](https://www.youtube.com/watch?v=1dKRdX9bfIo)
+* [Decision Trees 📹](https://www.youtube.com/watch?v=g9c66TUylZ4)
+* [Random Forest 📹](https://www.youtube.com/watch?v=J4Wdy0Wc_xQ)
+* [Gradient Boost 📹](https://www.youtube.com/watch?v=3CC4N4z3GJc)
+* [XGBoost 📹](https://www.youtube.com/watch?v=OtD8wVaFm6E)
 
 ### Additional Resources
 
-* [Fitting a Curve to Data](https://www.youtube.com/watch?v=Vf7oJ6z2LCc)
-* [Linear Regression and Gradient Descent: Stanford](https://www.youtube.com/watch?v=4b4MUYve_U8)
+* [Fitting a Curve to Data 📹](https://www.youtube.com/watch?v=Vf7oJ6z2LCc)
+* [Linear Regression and Gradient Descent: Stanford 📹](https://www.youtube.com/watch?v=4b4MUYve_U8)
 
 ## Time Series
 
@@ -199,40 +199,40 @@ While most regression models can be turned into a time series model by incorpora
 
 ### High Level Topics
 
-* [Time Series Forecasting with Machine Learning](https://www.youtube.com/watch?v=_ZQ-lQrK9Rg)
-* [Forecasting: Principles and Practice](https://otexts.com/fpp3/intro.html) (Chapter 1)
+* [Time Series Forecasting with Machine Learning 📹](https://www.youtube.com/watch?v=_ZQ-lQrK9Rg)
+* [Forecasting: Principles and Practice 📕](https://otexts.com/fpp3/intro.html) (Chapter 1)
 
 ### Python
 
-* [Time Series Analysis in Python #1](https://www.youtube.com/watch?v=axjgEgBgIY0)
-* [Time Series Analysis in Python #2](https://www.youtube.com/watch?v=sCl6CXZ2xBg)
-* [Time Series Forecasting with XGBoost](https://www.youtube.com/watch?v=Wsfz3i1AXzY)
-* [Introduction to Machine Learning with Time Series](https://www.youtube.com/watch?v=Wf2naBHRo8Q)
+* [Time Series Analysis in Python #1 📹](https://www.youtube.com/watch?v=axjgEgBgIY0)
+* [Time Series Analysis in Python #2 📹](https://www.youtube.com/watch?v=sCl6CXZ2xBg)
+* [Time Series Forecasting with XGBoost 📹](https://www.youtube.com/watch?v=Wsfz3i1AXzY)
+* [Introduction to Machine Learning with Time Series 📹](https://www.youtube.com/watch?v=Wf2naBHRo8Q)
 
 ### R
 
-* [Forecasting: Principles and Practice](https://otexts.com/fpp3/)
-* [Introduction to Modeltime: Forecasting with Tidymodels](https://www.youtube.com/watch?v=-bCelif-ENY)
-* [High Performance Time Series Forecasting](https://www.youtube.com/watch?v=elQb4VzRINg)
-* [Arima Forecasting in R](https://www.youtube.com/watch?v=3znQUrREUC8)
-* [Forecasting Multiple Time Series with Modeltime](https://www.youtube.com/watch?v=6RjYIOCnRMk)
-* [Plotting Time Series in R](https://www.youtube.com/watch?v=Nf8FwFCJz2c)
-* [Microsoft Finance Time Series Forecast Framework](https://microsoft.github.io/finnts/)
+* [Forecasting: Principles and Practice 📕](https://otexts.com/fpp3/)
+* [Introduction to Modeltime: Forecasting with Tidymodels 📹](https://www.youtube.com/watch?v=-bCelif-ENY)
+* [High Performance Time Series Forecasting 📹](https://www.youtube.com/watch?v=elQb4VzRINg)
+* [Arima Forecasting in R 📹](https://www.youtube.com/watch?v=3znQUrREUC8)
+* [Forecasting Multiple Time Series with Modeltime 📹](https://www.youtube.com/watch?v=6RjYIOCnRMk)
+* [Plotting Time Series in R 📹](https://www.youtube.com/watch?v=Nf8FwFCJz2c)
+* [Microsoft Finance Time Series Forecast Framework 📃](https://microsoft.github.io/finnts/)
 
 ### How Various Models Work
 
 * All regression models in the [Regression](#regression) chapter can be turned into time series models
-* [Arima](https://otexts.com/fpp3/arima.html)
-* [Exponential Smoothing](https://otexts.com/fpp3/expsmooth.html)
+* [Arima 📕](https://otexts.com/fpp3/arima.html)
+* [Exponential Smoothing 📕](https://otexts.com/fpp3/expsmooth.html)
 
 ### Additional Learning Resources
 
-* [Forecasting: Theory and Practice](https://www.sciencedirect.com/science/article/pii/S0169207021001758)
-* [Machine Learning for Time Series with Python](https://www.youtube.com/watch?v=cBojo1hsHiI) - Python
-* [Practical Time Series Analysis](https://learning.oreilly.com/library/view/practical-time-series/9781492041641/) - Python
-* [Darts Package](https://unit8co.github.io/darts/index.html) - Python
-* [Various Resources](https://www.bigbookofr.com/time-series-analysis-and-forecasting.html) - R
-* [Time Series Forecasting: Business Science University](https://university.business-science.io/p/ds4b-203-r-high-performance-time-series-forecasting) - R
+* [Forecasting: Theory and Practice 📃](https://www.sciencedirect.com/science/article/pii/S0169207021001758)
+* [Machine Learning for Time Series with Python 📹](https://www.youtube.com/watch?v=cBojo1hsHiI) - Python
+* [Practical Time Series Analysis 📕](https://learning.oreilly.com/library/view/practical-time-series/9781492041641/) - Python
+* [Darts Package 📃](https://unit8co.github.io/darts/index.html) - Python
+* [Various Resources 📕](https://www.bigbookofr.com/time-series-analysis-and-forecasting.html) - R
+* [Time Series Forecasting: Business Science University 🏫](https://university.business-science.io/p/ds4b-203-r-high-performance-time-series-forecasting) - R
 
 ## Classification
 
@@ -242,48 +242,48 @@ Classification models are some of the most widely used machine learning across i
 
 ### High Level Topics
 
-* [Classification in Machine Learning](https://www.youtube.com/watch?v=pXdum128xww) (skip tutorial at end)
-* [Confusion Matrix](https://www.youtube.com/watch?v=Kdsp6soqA7o)
-* [Sensitivity and Specificity](https://www.youtube.com/watch?v=vP06aMoz4v8)
-* [ROC and AUC](https://www.youtube.com/watch?v=4jRBRDbJemM)
+* [Classification in Machine Learning 📹](https://www.youtube.com/watch?v=pXdum128xww) (skip tutorial at end)
+* [Confusion Matrix 📹](https://www.youtube.com/watch?v=Kdsp6soqA7o)
+* [Sensitivity and Specificity 📹](https://www.youtube.com/watch?v=vP06aMoz4v8)
+* [ROC and AUC 📹](https://www.youtube.com/watch?v=4jRBRDbJemM)
 
 ### Python
 
-* [Train and Evaluation Classification Models: Microsoft](https://docs.microsoft.com/en-us/learn/modules/train-evaluate-classification-models/)
-* [Create and Understand Classification Models: Microsoft](https://docs.microsoft.com/en-us/learn/modules/understand-classification-machine-learning/)
-* [Confusion Matrix and Class Imbalance: Microsoft](https://docs.microsoft.com/en-us/learn/modules/machine-learning-confusion-matrix/)
-* [Measure and Optimize Model Performance: Microsoft](https://docs.microsoft.com/en-us/learn/modules/optimize-model-performance-roc-auc/)
-* [Hyperparameter Tuning with Random Forest: Microsoft](https://docs.microsoft.com/en-us/learn/modules/machine-learning-architectures-and-hyperparameters/)
-* [PyCaret Tutorials](https://pycaret.readthedocs.io/en/latest/tutorials.html#classification)
-* [Titanic Tutorial](https://github.com/ishikkkkaaaa/ML-Projects/tree/main/3-Titanic%20project)
-* [Advertising Tutorial](https://github.com/ishikkkkaaaa/ML-Projects/tree/main/4-advertising%20project(logitic%20regression))
-* [Loan Tutorial](https://github.com/ishikkkkaaaa/ML-Projects/tree/main/6-Loan%20project)
+* [Train and Evaluation Classification Models: Microsoft 🏫](https://docs.microsoft.com/en-us/learn/modules/train-evaluate-classification-models/)
+* [Create and Understand Classification Models: Microsoft 🏫](https://docs.microsoft.com/en-us/learn/modules/understand-classification-machine-learning/)
+* [Confusion Matrix and Class Imbalance: Microsoft 🏫](https://docs.microsoft.com/en-us/learn/modules/machine-learning-confusion-matrix/)
+* [Measure and Optimize Model Performance: Microsoft 🏫](https://docs.microsoft.com/en-us/learn/modules/optimize-model-performance-roc-auc/)
+* [Hyperparameter Tuning with Random Forest: Microsoft 🏫](https://docs.microsoft.com/en-us/learn/modules/machine-learning-architectures-and-hyperparameters/)
+* [PyCaret Tutorials 📃](https://pycaret.readthedocs.io/en/latest/tutorials.html#classification)
+* [Titanic Tutorial 📃](https://github.com/ishikkkkaaaa/ML-Projects/tree/main/3-Titanic%20project)
+* [Advertising Tutorial 📃](https://github.com/ishikkkkaaaa/ML-Projects/tree/main/4-advertising%20project(logitic%20regression))
+* [Loan Tutorial 📃](https://github.com/ishikkkkaaaa/ML-Projects/tree/main/6-Loan%20project)
 
 ### R
 
-* [Logistic Regression](https://www.youtube.com/watch?v=Qi-sVE0SWFc)
-* [Hotel Bookings Tutorial](https://juliasilge.com/blog/hotels-recipes/)
-* [Water Source Availability Tutorial](https://juliasilge.com/blog/water-sources/)
-* [Beach Volleyball Tutorial](https://juliasilge.com/blog/xgboost-tune-volleyball/)
-* [Volcano Eruptions Tutorial](https://juliasilge.com/blog/multinomial-volcano-eruptions/)
-* [Food Consumption Tutorial](https://juliasilge.com/blog/food-hyperparameter-tune/)
+* [Logistic Regression 📹](https://www.youtube.com/watch?v=Qi-sVE0SWFc)
+* [Hotel Bookings Tutorial 📃](https://juliasilge.com/blog/hotels-recipes/)
+* [Water Source Availability Tutorial 📃](https://juliasilge.com/blog/water-sources/)
+* [Beach Volleyball Tutorial 📃](https://juliasilge.com/blog/xgboost-tune-volleyball/)
+* [Volcano Eruptions Tutorial 📃](https://juliasilge.com/blog/multinomial-volcano-eruptions/)
+* [Food Consumption Tutorial 📃](https://juliasilge.com/blog/food-hyperparameter-tune/)
 
 ### How Various Models Work
 
-* [Logistic Regression](https://www.youtube.com/watch?v=yIYKR4sgzI8)
-* [K-Nearest Neighbors](https://www.youtube.com/watch?v=HVXime0nQeI)
-* [Decision Trees #1](https://www.youtube.com/watch?v=_L39rN6gz7Y)
-* [Decision Trees #2](https://www.youtube.com/watch?v=wpNl-JwwplA)
-* [Random Forest](https://www.youtube.com/watch?v=J4Wdy0Wc_xQ)
-* [Gradient Boost](https://www.youtube.com/watch?v=jxuNLH5dXCs)
-* [XGBoost](https://www.youtube.com/watch?v=8b1JEDvenQU)
+* [Logistic Regression 📹](https://www.youtube.com/watch?v=yIYKR4sgzI8)
+* [K-Nearest Neighbors 📹](https://www.youtube.com/watch?v=HVXime0nQeI)
+* [Decision Trees #1 📹](https://www.youtube.com/watch?v=_L39rN6gz7Y)
+* [Decision Trees #2 📹](https://www.youtube.com/watch?v=wpNl-JwwplA)
+* [Random Forest 📹](https://www.youtube.com/watch?v=J4Wdy0Wc_xQ)
+* [Gradient Boost 📹](https://www.youtube.com/watch?v=jxuNLH5dXCs)
+* [XGBoost 📹](https://www.youtube.com/watch?v=8b1JEDvenQU)
 
 ### Additional Learning Resources
 
-* [Locally Weighted and Logistic Regression: Stanford](https://www.youtube.com/watch?v=8b1JEDvenQU)
-* [Supervised Machine Learning: Coursera](https://www.classcentral.com/course/supervised-learning-classification-20945) - Python
-* [Classification Bootcamp: Udemy](https://www.classcentral.com/course/udemy-machine-learning-classification-38705) - Python
-* [Machine Learning Classification: Coursera](https://www.classcentral.com/course/ml-classification-4219) - Python
+* [Locally Weighted and Logistic Regression: Stanford 📹](https://www.youtube.com/watch?v=8b1JEDvenQU)
+* [Supervised Machine Learning: Coursera 🏫](https://www.classcentral.com/course/supervised-learning-classification-20945) - Python
+* [Classification Bootcamp: Udemy 🏫](https://www.classcentral.com/course/udemy-machine-learning-classification-38705) - Python
+* [Machine Learning Classification: Coursera 🏫](https://www.classcentral.com/course/ml-classification-4219) - Python
 
 ## Unsupervised Learning
 
@@ -291,21 +291,21 @@ Unsupervised learning is an evolving field of machine learning, and many say is 
 
 ### Python
 
-* [Train and Evaluate Clustering Models](https://docs.microsoft.com/en-us/learn/modules/train-evaluate-cluster-models/)
-* [PyCaret Clustering Tutorial](https://pycaret.readthedocs.io/en/latest/tutorials.html#clustering)
-* [PyCaret Anomaly Detection Tutorial](https://pycaret.readthedocs.io/en/latest/tutorials.html#anomaly-detection)
-* [PCA Tutorial](https://github.com/ishikkkkaaaa/ML-Projects/tree/main/7-Breast%20cancer)
+* [Train and Evaluate Clustering Models 🏫](https://docs.microsoft.com/en-us/learn/modules/train-evaluate-cluster-models/)
+* [PyCaret Clustering Tutorial 📃](https://pycaret.readthedocs.io/en/latest/tutorials.html#clustering)
+* [PyCaret Anomaly Detection Tutorial 📃](https://pycaret.readthedocs.io/en/latest/tutorials.html#anomaly-detection)
+* [PCA Tutorial 📃](https://github.com/ishikkkkaaaa/ML-Projects/tree/main/7-Breast%20cancer)
 
 ### R
 
-* [PCA Tutorial](https://juliasilge.com/blog/un-voting/)
-* [PCA and UMAP Tutorial](https://juliasilge.com/blog/cocktail-recipes-umap/)
-* [Visualizing PCA in R](https://www.youtube.com/watch?v=X4wsXba_tZI)
+* [PCA Tutorial 📃](https://juliasilge.com/blog/un-voting/)
+* [PCA and UMAP Tutorial📃](https://juliasilge.com/blog/cocktail-recipes-umap/)
+* [Visualizing PCA in R 📹](https://www.youtube.com/watch?v=X4wsXba_tZI)
 
 ### How Various Models Work
 
-* [K-Means Clustering](https://www.youtube.com/watch?v=4b5d3muPQmA)
-* [PCA](https://www.youtube.com/watch?v=FgakZw6K1QQ&list=PLblh5JKOoLUIcdlgu78MnlATeyx4cEVeR&index=1)
+* [K-Means Clustering 📹](https://www.youtube.com/watch?v=4b5d3muPQmA)
+* [PCA 📹](https://www.youtube.com/watch?v=FgakZw6K1QQ&list=PLblh5JKOoLUIcdlgu78MnlATeyx4cEVeR&index=1)
 
 ## Natural Language Processing
 
@@ -313,22 +313,22 @@ Natural language processing (NLP) is all about extracting insight from unstructu
 
 ### Python
 
-* [Natural Language Processing: Kaggle](https://www.kaggle.com/learn/natural-language-processing)
-* [Explore Natural Language Processing in Azure: Microsoft](https://docs.microsoft.com/en-us/learn/paths/explore-natural-language-processing/)
-* [PyCaret Tutorial](https://pycaret.readthedocs.io/en/latest/tutorials.html#natural-language-processing)
+* [Natural Language Processing: Kaggle 🏫](https://www.kaggle.com/learn/natural-language-processing)
+* [Explore Natural Language Processing in Azure: Microsoft 📃](https://docs.microsoft.com/en-us/learn/paths/explore-natural-language-processing/)
+* [PyCaret Tutorial 📃](https://pycaret.readthedocs.io/en/latest/tutorials.html#natural-language-processing)
 
 ### R
 
-* [Text Mining in R](https://www.tidytextmining.com/)
-* [Text Mining with Tidy Data Principles](https://juliasilge.shinyapps.io/learntidytext/)
-* [Supervised Machine Learning for Text Analysis](https://smltar.com/)
+* [Text Mining in R 📕](https://www.tidytextmining.com/)
+* [Text Mining with Tidy Data Principles 📕](https://juliasilge.shinyapps.io/learntidytext/)
+* [Supervised Machine Learning for Text Analysis 📕](https://smltar.com/)
 
 ### Additional Resources
 
-* [Practical Natural Language Processing](https://learning.oreilly.com/library/view/practical-natural-language/9781492054047/) - Python
-* [Natural Language Processing with Python and spaCy](https://learning.oreilly.com/library/view/natural-language-processing/9781098122652/) - Python
-* [Applied Text Analysis](https://learning.oreilly.com/library/view/applied-text-analysis/9781491963036/) - Python
-* [Introduction to Natural Language Processing with PyTorch: Microsoft](https://docs.microsoft.com/en-us/learn/modules/intro-natural-language-processing-pytorch/) - Python
+* [Practical Natural Language Processing 📕](https://learning.oreilly.com/library/view/practical-natural-language/9781492054047/) - Python
+* [Natural Language Processing with Python and spaCy 📕](https://learning.oreilly.com/library/view/natural-language-processing/9781098122652/) - Python
+* [Applied Text Analysis 📕](https://learning.oreilly.com/library/view/applied-text-analysis/9781491963036/) - Python
+* [Introduction to Natural Language Processing with PyTorch: Microsoft 📃](https://docs.microsoft.com/en-us/learn/modules/intro-natural-language-processing-pytorch/) - Python
 
 ## Deep Learning
 
@@ -336,29 +336,29 @@ The most rapidly evolving area of AI is deep learning, which use a completely ne
 
 ### High Level Topics
 
-* [Deep Learning Crash Course](https://www.youtube.com/watch?v=VyWAvY2CF9c)
-* [Neural Networks](https://www.youtube.com/playlist?list=PLblh5JKOoLUIxGDQs4LFFD--41Vzf-ME1)
+* [Deep Learning Crash Course 📹](https://www.youtube.com/watch?v=VyWAvY2CF9c)
+* [Neural Networks 📹](https://www.youtube.com/playlist?list=PLblh5JKOoLUIxGDQs4LFFD--41Vzf-ME1)
 
 ### Python
 
-* [Practical Deep Learning for Coders](https://course.fast.ai/)
-* [Train and Evaluate Deep Learning Models: Microsoft](https://docs.microsoft.com/en-us/learn/modules/train-evaluate-deep-learn-models/)
-* [Deep Learning in Tensorflow](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)
+* [Practical Deep Learning for Coders 🏫](https://course.fast.ai/)
+* [Train and Evaluate Deep Learning Models: Microsoft 🏫](https://docs.microsoft.com/en-us/learn/modules/train-evaluate-deep-learn-models/)
+* [Deep Learning in Tensorflow 🏫](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)
 
 ### R
 
-* [Deep Learning with Tidymodels, Torch, and Tabnet](https://www.youtube.com/watch?v=GuboAGHDgas)
+* [Deep Learning with Tidymodels, Torch, and Tabnet 📹](https://www.youtube.com/watch?v=GuboAGHDgas)
 
 ### Additional Resources
 
-* [Andrew Ng: Deep Learning, Education, and Real-World AI](https://www.youtube.com/watch?v=0jspaMLxBig)
-* [Nuts and Bolts of Applying Deep Learning](https://www.youtube.com/watch?v=F1ka6a13S9I)
-* [History of Deep Learning](https://www.youtube.com/watch?v=mTtDfKgLm54)
-* [Deep Learning for Coders with fastai and PyTorch](https://learning.oreilly.com/library/view/deep-learning-for/9781492045519/) - Python
-* [Deep Learning: Coursera](https://www.coursera.org/specializations/deep-learning#courses) - Python
-* [Computer Vision Tutorial: Kaggle](https://www.kaggle.com/learn/computer-vision) - Python
-* [Deep Learning with Tensorflow](https://learning.oreilly.com/library/view/deep-learning-with/9781617296864/) - Python
-* [Deep Learning with R](https://learning.oreilly.com/library/view/deep-learning-with/9781617295546/) - R
+* [Andrew Ng: Deep Learning, Education, and Real-World AI 📹](https://www.youtube.com/watch?v=0jspaMLxBig)
+* [Nuts and Bolts of Applying Deep Learning 📹](https://www.youtube.com/watch?v=F1ka6a13S9I)
+* [History of Deep Learning 📹](https://www.youtube.com/watch?v=mTtDfKgLm54)
+* [Deep Learning for Coders with fastai and PyTorch 📕](https://learning.oreilly.com/library/view/deep-learning-for/9781492045519/) - Python
+* [Deep Learning: Coursera 🏫](https://www.coursera.org/specializations/deep-learning#courses) - Python
+* [Computer Vision Tutorial: Kaggle 🏫](https://www.kaggle.com/learn/computer-vision) - Python
+* [Deep Learning with Tensorflow 📕](https://learning.oreilly.com/library/view/deep-learning-with/9781617296864/) - Python
+* [Deep Learning with R 📕](https://learning.oreilly.com/library/view/deep-learning-with/9781617295546/) - R
 
 ## Model Interpretability
 
@@ -366,19 +366,19 @@ A lot of times you may be asked to help understand how a particular machine lear
 
 ### High Level Topics
 
-* [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
-* [Intro to SHAP](https://www.aidancooper.co.uk/a-non-technical-guide-to-interpreting-shap-analyses/)
+* [Interpretable Machine Learning 📕](https://christophm.github.io/interpretable-ml-book/)
+* [Intro to SHAP 📃](https://www.aidancooper.co.uk/a-non-technical-guide-to-interpreting-shap-analyses/)
 
 ### Python
 
-* [Machine Learning Explainability: Kaggle](https://www.kaggle.com/learn/machine-learning-explainability)
-* [interpretML](https://github.com/interpretml/interpret)
+* [Machine Learning Explainability: Kaggle 🏫](https://www.kaggle.com/learn/machine-learning-explainability)
+* [interpretML 📃](https://github.com/interpretml/interpret)
 
 ### R
 
-* [vip: Variable Importance Plots](https://koalaverse.github.io/vip/index.html)
-* [Model Interpretability Tutorial](https://juliasilge.com/blog/wind-turbine/)
-* [Partial Dependence Plots with Tidymodels and DALEX](https://juliasilge.com/blog/mario-kart/)
+* [vip: Variable Importance Plots 📕](https://koalaverse.github.io/vip/index.html)
+* [Model Interpretability Tutorial 📃](https://juliasilge.com/blog/wind-turbine/)
+* [Partial Dependence Plots with Tidymodels and DALEX 📃](https://juliasilge.com/blog/mario-kart/)
 
 ## AI Ethics and Fairness
 
@@ -386,14 +386,14 @@ With great power, comes great responsibility. As machine learning becomes more i
 
 ### High Level Topics
 
-* [Intro to AI Ethics: Kaggle](https://www.kaggle.com/learn/intro-to-ai-ethics)
-* [Fairness and Machine Learning](https://fairmlbook.org/)
-* [What Happens when an Algorithm Cuts Your Healthcare](https://www.theverge.com/2018/3/21/17144260/healthcare-medicaid-algorithm-arkansas-cerebral-palsy)
+* [Intro to AI Ethics: Kaggle 🏫](https://www.kaggle.com/learn/intro-to-ai-ethics)
+* [Fairness and Machine Learning 📕](https://fairmlbook.org/)
+* [What Happens when an Algorithm Cuts Your Healthcare 📃](https://www.theverge.com/2018/3/21/17144260/healthcare-medicaid-algorithm-arkansas-cerebral-palsy)
 
 ### Python
 
-* [Fairlearn](https://fairlearn.org/)
-* [Data Ethics in Deep Learning](https://course.fast.ai/videos/?lesson=5)
+* [Fairlearn 📃](https://fairlearn.org/)
+* [Data Ethics in Deep Learning 📹](https://course.fast.ai/videos/?lesson=5)
 
 ## Web Apps
 
@@ -401,17 +401,17 @@ Building user interfaces that bring machine learning models directly to the end 
 
 ### Python
 
-* [Python Web Applications with Flask](https://www.youtube.com/watch?v=Qr4QMBUPxWo)
-* [Build 12 Data Science Apps with Python and Streamlit](https://www.youtube.com/watch?v=JwSS70SZdyM)
+* [Python Web Applications with Flask 📹](https://www.youtube.com/watch?v=Qr4QMBUPxWo)
+* [Build 12 Data Science Apps with Python and Streamlit 📹](https://www.youtube.com/watch?v=JwSS70SZdyM)
 
 ### R
 
-* [A Gentle Introduction to creating R Shiny Web Apps](https://www.youtube.com/watch?v=jxsKUxkiaLI)
-* [Shiny Walkthrough](https://www.youtube.com/watch?v=eoeLn8SyDW8)
-* [Building Predictive Web Applications with R Shiny](https://www.youtube.com/watch?v=oegRVT262Ig)
-* [Build Interactive Data-Driven Web Apps With R Shiny](https://www.freecodecamp.org/news/build-interactive-data-driven-web-apps-with-r-shiny/)
-* [Engineering Production Grade Shiny Apps](https://engineering-shiny.org/)
-* [Outstanding User Interfaces with Shiny](https://unleash-shiny.rinterface.com/index.html)
+* [A Gentle Introduction to creating R Shiny Web Apps 📹](https://www.youtube.com/watch?v=jxsKUxkiaLI)
+* [Shiny Walkthrough 📹](https://www.youtube.com/watch?v=eoeLn8SyDW8)
+* [Building Predictive Web Applications with R Shiny 📹](https://www.youtube.com/watch?v=oegRVT262Ig)
+* [Build Interactive Data-Driven Web Apps With R Shiny 📃](https://www.freecodecamp.org/news/build-interactive-data-driven-web-apps-with-r-shiny/)
+* [Engineering Production Grade Shiny Apps 📕](https://engineering-shiny.org/)
+* [Outstanding User Interfaces with Shiny 📕](https://unleash-shiny.rinterface.com/index.html)
 
 ## Production on Azure
 
@@ -419,23 +419,23 @@ One of the harder aspects of machine learning is getting your work in a producti
 
 ### Data Storage
 
-* [Azure Data Lake Storage](https://docs.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-introduction)
-* [Azure SQL](https://azure.microsoft.com/en-us/products/azure-sql/#product-overview)
+* [Azure Data Lake Storage 📃](https://docs.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-introduction)
+* [Azure SQL 📃](https://azure.microsoft.com/en-us/products/azure-sql/#product-overview)
 
 ### General Data Analytics
 
-* [Azure Synapse](https://azure.microsoft.com/en-us/services/synapse-analytics/?OCID=AID2200277_SEM_7a4e0c2545c71de6d91d6d59687840c2:G:s&ef_id=7a4e0c2545c71de6d91d6d59687840c2:G:s&msclkid=7a4e0c2545c71de6d91d6d59687840c2)
-* [Azure Databricks](https://azure.microsoft.com/en-us/services/databricks/#features)
+* [Azure Synapse 📃](https://azure.microsoft.com/en-us/services/synapse-analytics/?OCID=AID2200277_SEM_7a4e0c2545c71de6d91d6d59687840c2:G:s&ef_id=7a4e0c2545c71de6d91d6d59687840c2:G:s&msclkid=7a4e0c2545c71de6d91d6d59687840c2)
+* [Azure Databricks 📃](https://azure.microsoft.com/en-us/services/databricks/#features)
 
 ### Machine Learning
 
-* [Intro to Azure ML](https://azure.microsoft.com/en-us/services/machine-learning/#product-overview)
-* [Automated Machine Learning](https://docs.microsoft.com/en-us/azure/machine-learning/concept-automated-ml)
-* [ML Pipelines](https://docs.microsoft.com/en-us/azure/machine-learning/concept-ml-pipelines)
+* [Intro to Azure ML 📃](https://azure.microsoft.com/en-us/services/machine-learning/#product-overview)
+* [Automated Machine Learning 📃](https://docs.microsoft.com/en-us/azure/machine-learning/concept-automated-ml)
+* [ML Pipelines 📃](https://docs.microsoft.com/en-us/azure/machine-learning/concept-ml-pipelines)
 
 ### Additional Resources
 
-* [Azure Friday](https://www.azurefriday.com/)
+* [Azure Friday 📹](https://www.azurefriday.com/)
 
 ## Life as a Data Scientist
 
@@ -447,17 +447,17 @@ To-DO
 
 ### Coding Best Practices
 
-* [Best Practice for Writing Code Comments](https://stackoverflow.blog/2021/07/05/best-practices-for-writing-code-comments/?utm_medium=email&utm_source=topic+optin&utm_campaign=awareness&utm_content=20210828+prog+nl&mkt_tok=MTA3LUZNUy0wNzAAAAF_LK1OjKlqDG9SxsVfzMCGmwO5ZelBS-fBHGWHz3FyjGzK_06soVvuT7ljzYAZYITpbG8uwSSDfuC45Z0MP5qLgyunNstZqBDys4jaWHFFSczZ)
+* [Best Practice for Writing Code Comments 📃](https://stackoverflow.blog/2021/07/05/best-practices-for-writing-code-comments/?utm_medium=email&utm_source=topic+optin&utm_campaign=awareness&utm_content=20210828+prog+nl&mkt_tok=MTA3LUZNUy0wNzAAAAF_LK1OjKlqDG9SxsVfzMCGmwO5ZelBS-fBHGWHz3FyjGzK_06soVvuT7ljzYAZYITpbG8uwSSDfuC45Z0MP5qLgyunNstZqBDys4jaWHFFSczZ)
 
 ### Getting a Job
 
-* [Career and Community Resources](https://www.bigbookofr.com/career-and-community.html)
-* [Deep Learning Interview Questions](https://arxiv.org/abs/2201.00650)
+* [Career and Community Resources 📕](https://www.bigbookofr.com/career-and-community.html)
+* [Deep Learning Interview Questions 📃](https://arxiv.org/abs/2201.00650)
 
 
 ### Additional Resources
 
-* [An Old Hacker's Tips on Staying Employed](https://madned.substack.com/p/an-old-hackers-tips-on-staying-employed)
-* [Lessons from Data Scientists: LinkedIn Learning](https://www.linkedin.com/learning-login/share?account=3322&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Flessons-from-data-scientists%3Ftrk%3Dshare_ent_url%26shareId%3Dz8kwfyJsRZypq%252FE5bEEjdQ%253D%253D)
-* [Building Data Science Teams](https://learning.oreilly.com/library/view/building-data-science/BLDNGDST0001/)
+* [An Old Hacker's Tips on Staying Employed 📃](https://madned.substack.com/p/an-old-hackers-tips-on-staying-employed)
+* [Lessons from Data Scientists: LinkedIn Learning 🏫](https://www.linkedin.com/learning-login/share?account=3322&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Flessons-from-data-scientists%3Ftrk%3Dshare_ent_url%26shareId%3Dz8kwfyJsRZypq%252FE5bEEjdQ%253D%253D)
+* [Building Data Science Teams 📕](https://learning.oreilly.com/library/view/building-data-science/BLDNGDST0001/)
 
