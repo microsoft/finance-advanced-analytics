@@ -105,12 +105,14 @@ Future sections will cover most of these topics again but in more depth. Having 
 
 ### High Level Topics
 
+* [Machine Learning Crash Course 🏫](https://ml.berkeley.edu/blog/tag/crash-course)
 * [Building AI 🏫](https://buildingai.elementsofai.com/)
 * [Three Things to do when Starting Out in Data Science 📹](https://www.youtube.com/watch?v=ilUbD7EoQnk)
 * [Types of ML Models 📹](https://www.youtube.com/watch?v=yN7ypxC7838)
 * [Making Friends with Machine Learning 📹](https://www.youtube.com/playlist?list=PLRKtJ4IpxJpDxl0NTvNYQWKCYzHNuy2xG)
 * [Gradient Descent: Step-by-Step 📹](https://www.youtube.com/watch?v=sDv4f4s2SB8)
 * [ML Fundamentals: Cross Validation 📹](https://www.youtube.com/watch?v=fSytzGwwBVw)
+* [Introduction to Probability for Data Science 🏫](https://probability4datascience.com/index.html)
 
 ### Python
 
@@ -188,6 +190,7 @@ Regression deals with predicting numerical quantities. It will quickly become yo
 
 ### Additional Resources
 
+* [Regression and Other Stories 📕](https://avehtari.github.io/ROS-Examples/index.html)
 * [Fitting a Curve to Data 📹](https://www.youtube.com/watch?v=Vf7oJ6z2LCc)
 * [Linear Regression and Gradient Descent: Stanford 📹](https://www.youtube.com/watch?v=4b4MUYve_U8)
 
@@ -204,6 +207,7 @@ While most regression models can be turned into a time series model by incorpora
 
 ### Python
 
+* [Intro to Time Series: Kaggle 🏫](https://www.kaggle.com/learn/time-series)
 * [Time Series Analysis in Python #1 📹](https://www.youtube.com/watch?v=axjgEgBgIY0)
 * [Time Series Analysis in Python #2 📹](https://www.youtube.com/watch?v=sCl6CXZ2xBg)
 * [Time Series Forecasting with XGBoost 📹](https://www.youtube.com/watch?v=Wsfz3i1AXzY)
@@ -228,6 +232,7 @@ While most regression models can be turned into a time series model by incorpora
 ### Additional Learning Resources
 
 * [Forecasting: Theory and Practice 📃](https://www.sciencedirect.com/science/article/pii/S0169207021001758)
+* [Analyzing Time Series Data 📃](https://observablehq.com/collection/@observablehq/analyzing-time-series-data)
 * [Machine Learning for Time Series with Python 📹](https://www.youtube.com/watch?v=cBojo1hsHiI) - Python
 * [Practical Time Series Analysis 📕](https://learning.oreilly.com/library/view/practical-time-series/9781492041641/) - Python
 * [Darts Package 📃](https://unit8co.github.io/darts/index.html) - Python
@@ -344,6 +349,7 @@ The most rapidly evolving area of AI is deep learning, which use a completely ne
 * [Practical Deep Learning for Coders 🏫](https://course.fast.ai/)
 * [Train and Evaluate Deep Learning Models: Microsoft 🏫](https://docs.microsoft.com/en-us/learn/modules/train-evaluate-deep-learn-models/)
 * [Deep Learning in Tensorflow 🏫](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)
+* [Yann LeCun's NYU Deep Learning Course 🏫](https://cds.nyu.edu/deep-learning/)
 
 ### R
 
@@ -354,6 +360,7 @@ The most rapidly evolving area of AI is deep learning, which use a completely ne
 * [Andrew Ng: Deep Learning, Education, and Real-World AI 📹](https://www.youtube.com/watch?v=0jspaMLxBig)
 * [Nuts and Bolts of Applying Deep Learning 📹](https://www.youtube.com/watch?v=F1ka6a13S9I)
 * [History of Deep Learning 📹](https://www.youtube.com/watch?v=mTtDfKgLm54)
+* [Visual Introduction to Deep Learning 📕](https://kdimensions.gumroad.com/l/visualdl)
 * [Deep Learning for Coders with fastai and PyTorch 📕](https://learning.oreilly.com/library/view/deep-learning-for/9781492045519/) - Python
 * [Deep Learning: Coursera 🏫](https://www.coursera.org/specializations/deep-learning#courses) - Python
 * [Computer Vision Tutorial: Kaggle 🏫](https://www.kaggle.com/learn/computer-vision) - Python
@@ -447,17 +454,18 @@ To-DO
 
 ### Coding Best Practices
 
+* [Foundations for Best Practices in Machine Learning 📃](https://www.fbpml.org/home)
 * [Best Practice for Writing Code Comments 📃](https://stackoverflow.blog/2021/07/05/best-practices-for-writing-code-comments/?utm_medium=email&utm_source=topic+optin&utm_campaign=awareness&utm_content=20210828+prog+nl&mkt_tok=MTA3LUZNUy0wNzAAAAF_LK1OjKlqDG9SxsVfzMCGmwO5ZelBS-fBHGWHz3FyjGzK_06soVvuT7ljzYAZYITpbG8uwSSDfuC45Z0MP5qLgyunNstZqBDys4jaWHFFSczZ)
 
 ### Getting a Job
 
 * [Career and Community Resources 📕](https://www.bigbookofr.com/career-and-community.html)
+* [Six Figure Data Scientist 📕](https://www.sixfiguredatascientist.com/book-agf883)
 * [Deep Learning Interview Questions 📃](https://arxiv.org/abs/2201.00650)
-
 
 ### Additional Resources
 
 * [An Old Hacker's Tips on Staying Employed 📃](https://madned.substack.com/p/an-old-hackers-tips-on-staying-employed)
 * [Lessons from Data Scientists: LinkedIn Learning 🏫](https://www.linkedin.com/learning-login/share?account=3322&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Flessons-from-data-scientists%3Ftrk%3Dshare_ent_url%26shareId%3Dz8kwfyJsRZypq%252FE5bEEjdQ%253D%253D)
 * [Building Data Science Teams 📕](https://learning.oreilly.com/library/view/building-data-science/BLDNGDST0001/)
-
+* [Advocate for Data Science at Your Company 📃](https://www.rstudio.com/champion)
