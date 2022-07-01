@@ -4,73 +4,81 @@
 
 ### Opening Thoughts
 
-Learning high level concepts and first principles helps to build a strong AI foundation that serves many purposes. Knowing the basics can help you better understand how AI could be applied in your company, how to work with data scientists, and even how to best leverage self-serve AI tools. Check out the below resources to quickly get up to speed on all things AI and ML. 
+Learning high level concepts and first principles helps to build a strong AI foundation that serves many purposes. Knowing the basics can help you better understand how AI could be applied in your company, how to work with data scientists, and even how to best leverage self-serve AI tools. Check out the below resources to quickly get up to speed on all things AI and ML.
 
 ### Overview of AI and ML
 
-* [Microsoft AI Business School 🏫](https://www.microsoft.com/en-us/ai/ai-business-school?OCID=BIO_FY22Q3_oando_EAI_wb&SilentAuth=1&wa=wsignin1.0)
-* [AI for Everyone 🏫](https://www.coursera.org/learn/ai-for-everyone#syllabus)
-* [Elements of AI 🏫](https://course.elementsofai.com/)
-* [AI Terminology 📹](https://www.youtube.com/watch?v=YPD4k730BRQ&list=PLl2kx2ZZbFQT1ZCf8oTFogg8J80FJGse2&index=5)
-* [Simple ML Example Walkthrough 📹](https://www.youtube.com/watch?v=Gv9_4yMHFhI&list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF&index=2)
-* [Time Series Forecasting Overview 📕](https://otexts.com/fpp3/intro.html) (Just Chapter 1)
+-   [How to Foster an AI-Ready Culture in Finance 📃](https://docs.microsoft.com/en-us/learn/modules/foster-ai-ready-culture-finance/)
+-   [Making Friends with Machine Learning 📹](https://www.youtube.com/playlist?list=PLRKtJ4IpxJpDxl0NTvNYQWKCYzHNuy2xG)
+-   [AI Terminology 📹](https://www.youtube.com/watch?v=YPD4k730BRQ&list=PLl2kx2ZZbFQT1ZCf8oTFogg8J80FJGse2&index=5)
+-   [Simple ML Example Walkthrough 📹](https://www.youtube.com/watch?v=Gv9_4yMHFhI&list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF&index=2)
+-   [Time Series Forecasting Overview 📕](https://otexts.com/fpp3/intro.html) (Just Chapter 1)
 
 ### History of AI
 
-* [Evolution of AI with Amy Boyd 🔉](https://runasradio.com/Shows/Show/739)
-* [Artificial Intelligence, the History and Future 📹](https://www.youtube.com/watch?v=8FHBh_OmdsM)
+-   [Evolution of AI with Amy Boyd 🔉](https://runasradio.com/Shows/Show/739)
+-   [Artificial Intelligence, the History and Future 📹](https://www.youtube.com/watch?v=8FHBh_OmdsM)
 
 ### AI Ethics and Fairness
 
-* [Microsoft's Approach to Responsible AI 📹](https://www.youtube.com/watch?v=dnC8-uUZXSc)
-* [Guiding Principles for Responsible AI 📃](https://docs.microsoft.com/en-us/learn/modules/responsible-ai-principles/?WT.mc_id=academic-15963-cxa)
-* [AI, Ain't I A Woman? 📹](https://www.youtube.com/watch?v=QxuyfWoVV98)
-* [Fairness-related harms in AI systems: Examples, Assessment, and Mitigation 📹](https://www.youtube.com/watch?v=1RptHwfkx_k)
-* [Responsible AI Resources - Microsoft AI 📃](https://www.microsoft.com/en-us/ai/responsible-ai-resources?activetab=pivot1:primaryr4&rtc=1)
+-   [Microsoft's Approach to Responsible AI 📹](https://www.youtube.com/watch?v=dnC8-uUZXSc)
+-   [Guiding Principles for Responsible AI 📃](https://docs.microsoft.com/en-us/learn/modules/responsible-ai-principles/?WT.mc_id=academic-15963-cxa)
+-   [AI, Ain't I A Woman? 📹](https://www.youtube.com/watch?v=QxuyfWoVV98)
+-   [Fairness-related harms in AI systems: Examples, Assessment, and Mitigation 📹](https://www.youtube.com/watch?v=1RptHwfkx_k)
+-   [Responsible AI Resources - Microsoft AI 📃](https://www.microsoft.com/en-us/ai/responsible-ai-resources?activetab=pivot1:primaryr4&rtc=1)
 
 ### ML Process and Lifecycle
 
-* [7 Steps of Machine Learning 📹](https://www.youtube.com/watch?v=nKW8Ndu7Mjw)
-* [Lifecyle of Machine Learning Models 📃](https://www.oracle.com/a/ocom/docs/data-science-lifecycle-ebook.pdf)
+-   [7 Steps of Machine Learning 📹](https://www.youtube.com/watch?v=nKW8Ndu7Mjw)
+-   [Lifecyle of Machine Learning Models 📃](https://www.oracle.com/a/ocom/docs/data-science-lifecycle-ebook.pdf)
 
 ### Facts of Life with ML
 
-* [Bias vs Variance 📹](https://www.youtube.com/watch?v=EuBBz3bI-aA)
-* [Forecasts are Always Wrong 🔉](https://www2.monash.edu/impact/podcasts/thought-capital/forecasts-are-always-wrong-but-we-need-them-anyway/)
+-   [Bias vs Variance 📹](https://www.youtube.com/watch?v=EuBBz3bI-aA)
+-   [Forecasts are Always Wrong 🔉](https://www2.monash.edu/impact/podcasts/thought-capital/forecasts-are-always-wrong-but-we-need-them-anyway/)
+
+### AI on Azure
+
+-   [Fundamentals of ML in the Cloud 📹](https://www.youtube.com/watch?v=CtX0GZpWz6M&list=PLLasX02E8BPCL966bJ00oIeOhm7w5ejvt&index=13)
+-   [ML Tools in Azure 📹](https://www.youtube.com/watch?v=8JEG2R6n4YQ&list=PLLasX02E8BPCL966bJ00oIeOhm7w5ejvt&index=12)
+-   [Automated ML in Azure 📹](https://www.youtube.com/watch?v=mwJ5Vbmy1AM&list=PLLasX02E8BPCL966bJ00oIeOhm7w5ejvt&index=10)
+-   [More Azure AI Tools 📹](https://www.youtube.com/watch?v=qJGRd34Hnl0)
 
 ### Additional Resources
 
-* [Introduction to Machine Learning - MIT 📹](https://www.youtube.com/watch?v=h0e2HAPTGF4&t=855s)
-* [Machine Learning Overview - Stanford 📹](https://www.youtube.com/watch?v=jGwO_UgTS7I&t=2038s)
-* [AI is the new Electricity 📹](https://www.youtube.com/watch?v=21EiKfQYZXc)
-* [Machine Learning Zero to Hero (Google I/O'19 📹)](https://www.youtube.com/watch?v=VwVg9jCtqaU)
-* [Deep Learning Basics: Introduction and Overview 📹](https://www.youtube.com/watch?v=O5xeyoRL95U)
-* [History of AI - Wikipedia 📃]("https://en.wikipedia.org/wiki/History_of_artificial_intelligence")
-* [Digital Revolution - Walter Isaacson 📹](https://www.youtube.com/playlist?list=PLnJFOBz2SCeebYYbKETRjS_R2gSKpmdM0)
-* [Worlds Easiest Introduction to Machine Learning 📃](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471#.7iuqawmr5)
-* [What's the difference between data science, machine learning, and artificial intelligence? 📃](http://varianceexplained.org/r/ds-ml-ai/)
+-   [Microsoft AI Business School 🏫](https://www.microsoft.com/en-us/ai/ai-business-school?OCID=BIO_FY22Q3_oando_EAI_wb&SilentAuth=1&wa=wsignin1.0)
+-   [AI for Everyone 🏫](https://www.coursera.org/learn/ai-for-everyone#syllabus)
+-   [Elements of AI 🏫](https://course.elementsofai.com/)
+-   [Introduction to Machine Learning - MIT 📹](https://www.youtube.com/watch?v=h0e2HAPTGF4&t=855s)
+-   [Machine Learning Overview - Stanford 📹](https://www.youtube.com/watch?v=jGwO_UgTS7I&t=2038s)
+-   [AI is the new Electricity 📹](https://www.youtube.com/watch?v=21EiKfQYZXc)
+-   [Deep Learning Basics: Introduction and Overview 📹](https://www.youtube.com/watch?v=O5xeyoRL95U)
+-   [History of AI - Wikipedia 📃](%22https://en.wikipedia.org/wiki/History_of_artificial_intelligence%22)
+-   [Digital Revolution - Walter Isaacson 📹](https://www.youtube.com/playlist?list=PLnJFOBz2SCeebYYbKETRjS_R2gSKpmdM0)
+-   [Worlds Easiest Introduction to Machine Learning 📃](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471#.7iuqawmr5)
+-   [What's the difference between data science, machine learning, and artificial intelligence? 📃](http://varianceexplained.org/r/ds-ml-ai/)
 
 ## Book List
 
 ### General AI Books
 
-* [Reprogamming the American Dream: Kevin Scott](https://www.amazon.com/Reprogramming-American-Dream-America-Valley-Making-ebook/dp/B07V1W37XK/ref=sr_1_1?crid=2OAPWAOX7DY27&dchild=1&keywords=reprogramming+the+american+dream&qid=1632757570&s=books&sprefix=reprogammning+the+%2Caps%2C258&sr=1-1)
-* [Data Driven: DJ Patil and Hilary Mason](https://learning.oreilly.com/library/view/data-driven/9781491925454/)
+-   [Reprogamming the American Dream: Kevin Scott](https://www.amazon.com/Reprogramming-American-Dream-America-Valley-Making-ebook/dp/B07V1W37XK/ref=sr_1_1?crid=2OAPWAOX7DY27&dchild=1&keywords=reprogramming+the+american+dream&qid=1632757570&s=books&sprefix=reprogammning+the+%2Caps%2C258&sr=1-1)
+-   [Data Driven: DJ Patil and Hilary Mason](https://learning.oreilly.com/library/view/data-driven/9781491925454/)
 
 ### Multidisciplinary Thinking and Mental Models
 
-* [Farnam Street Mental Models Series](https://www.amazon.com/dp/B086DQQ278?binding=kindle_edition&qid=1632841888&sr=1-6&ref=dbs_dp_rwt_sb_tukn)
-* [Poor Charlie's Almanac](https://www.amazon.com/Poor-Charlies-Almanack-Charles-Expanded/dp/1578645018/ref=sr_1_1?crid=1JML3Q3PTJA36&dchild=1&keywords=poor+charlie%27s+almanack&qid=1632841859&sprefix=poor+charlie%2Caps%2C232&sr=8-1)
+-   [Farnam Street Mental Models Series](https://www.amazon.com/dp/B086DQQ278?binding=kindle_edition&qid=1632841888&sr=1-6&ref=dbs_dp_rwt_sb_tukn)
+-   [Poor Charlie's Almanac](https://www.amazon.com/Poor-Charlies-Almanack-Charles-Expanded/dp/1578645018/ref=sr_1_1?crid=1JML3Q3PTJA36&dchild=1&keywords=poor+charlie%27s+almanack&qid=1632841859&sprefix=poor+charlie%2Caps%2C232&sr=8-1)
 
 ### Innovation and Systems Thinking
 
-* [Coders: Clive Thompson](https://www.amazon.com/Coders-Making-Tribe-Remaking-World-ebook/dp/B07DBRNN1Z/ref=sr_1_1?dchild=1&keywords=coders&qid=1632842213&sr=8-1)
-* [Creativity Inc: Ed Catmull](https://www.amazon.com/Creativity-Inc-Overcoming-Unseen-Inspiration-ebook/dp/B00FUZQYBO/ref=sr_1_1?dchild=1&keywords=creativity+inc&qid=1632842231&sr=8-1)
-* [Essentialism: Greg McKewon](https://www.amazon.com/Essentialism-Disciplined-Pursuit-Greg-McKeown-ebook/dp/B00G1J1D28/ref=sr_1_1?dchild=1&keywords=essentialism&qid=1632842246&sr=8-1)
-* [Good to Great: Jim Collins](https://www.amazon.com/Good-Great-Some-Companies-Others-ebook/dp/B0058DRUV6/ref=sr_1_1?dchild=1&keywords=good+to+great&qid=1632842264&sr=8-1)
-* [Loonshots: Safi Bachall](https://www.amazon.com/Loonshots-Nurture-Diseases-Transform-Industries-ebook/dp/B07D2BKVQR/ref=sr_1_1?dchild=1&keywords=loonshots&qid=1632842199&sr=8-1)
-* [Mastery: Robert Green](https://www.amazon.com/Mastery-Robert-Greene-ebook/dp/B007V65PBK/ref=sr_1_1?dchild=1&keywords=mastery&qid=1632842281&sr=8-1)
-* [Principles: Ray Dalio](https://www.amazon.com/Principles-Life-Work-Ray-Dalio-ebook/dp/B071CTK28D/ref=sr_1_1?dchild=1&keywords=principles&qid=1632842180&sr=8-1)
-* [Range: David Epstein](https://www.amazon.com/Range-Generalists-Triumph-Specialized-World-ebook/dp/B07H1ZYWTM/ref=sr_1_1?dchild=1&keywords=range&qid=1632842291&sr=8-1)
-* [WTF?: Tim O'Reilly](https://www.amazon.com/WTF-Whats-Future-Why-Its-ebook/dp/B01N34IDU6/ref=sr_1_16?dchild=1&keywords=wtf&qid=1632842301&sr=8-16)
-* [Zero to One: Peter Thiel](https://www.amazon.com/Zero-One-Notes-Startups-Future-ebook/dp/B00J6YBOFQ/ref=sr_1_1?dchild=1&keywords=zero+to+one&qid=1632842160&sr=8-1)
+-   [Coders: Clive Thompson](https://www.amazon.com/Coders-Making-Tribe-Remaking-World-ebook/dp/B07DBRNN1Z/ref=sr_1_1?dchild=1&keywords=coders&qid=1632842213&sr=8-1)
+-   [Creativity Inc: Ed Catmull](https://www.amazon.com/Creativity-Inc-Overcoming-Unseen-Inspiration-ebook/dp/B00FUZQYBO/ref=sr_1_1?dchild=1&keywords=creativity+inc&qid=1632842231&sr=8-1)
+-   [Essentialism: Greg McKewon](https://www.amazon.com/Essentialism-Disciplined-Pursuit-Greg-McKeown-ebook/dp/B00G1J1D28/ref=sr_1_1?dchild=1&keywords=essentialism&qid=1632842246&sr=8-1)
+-   [Good to Great: Jim Collins](https://www.amazon.com/Good-Great-Some-Companies-Others-ebook/dp/B0058DRUV6/ref=sr_1_1?dchild=1&keywords=good+to+great&qid=1632842264&sr=8-1)
+-   [Loonshots: Safi Bachall](https://www.amazon.com/Loonshots-Nurture-Diseases-Transform-Industries-ebook/dp/B07D2BKVQR/ref=sr_1_1?dchild=1&keywords=loonshots&qid=1632842199&sr=8-1)
+-   [Mastery: Robert Green](https://www.amazon.com/Mastery-Robert-Greene-ebook/dp/B007V65PBK/ref=sr_1_1?dchild=1&keywords=mastery&qid=1632842281&sr=8-1)
+-   [Principles: Ray Dalio](https://www.amazon.com/Principles-Life-Work-Ray-Dalio-ebook/dp/B071CTK28D/ref=sr_1_1?dchild=1&keywords=principles&qid=1632842180&sr=8-1)
+-   [Range: David Epstein](https://www.amazon.com/Range-Generalists-Triumph-Specialized-World-ebook/dp/B07H1ZYWTM/ref=sr_1_1?dchild=1&keywords=range&qid=1632842291&sr=8-1)
+-   [WTF?: Tim O'Reilly](https://www.amazon.com/WTF-Whats-Future-Why-Its-ebook/dp/B01N34IDU6/ref=sr_1_16?dchild=1&keywords=wtf&qid=1632842301&sr=8-16)
+-   [Zero to One: Peter Thiel](https://www.amazon.com/Zero-One-Notes-Startups-Future-ebook/dp/B00J6YBOFQ/ref=sr_1_1?dchild=1&keywords=zero+to+one&qid=1632842160&sr=8-1)
