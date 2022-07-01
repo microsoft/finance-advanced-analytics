@@ -9,6 +9,7 @@ history-of-ai
 ai-ethics-and-fairness
 ml-process-and-lifecycle
 facts-of-life-with-ml
+ai-on-azure
 additional-resources
 book-list
 general-ai-books
