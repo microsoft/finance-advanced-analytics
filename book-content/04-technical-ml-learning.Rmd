@@ -426,6 +426,8 @@ One of the harder aspects of machine learning is getting your work in a producti
 
 -   [Azure Synapse 📃](https://azure.microsoft.com/en-us/services/synapse-analytics/?OCID=AID2200277_SEM_7a4e0c2545c71de6d91d6d59687840c2:G:s&ef_id=7a4e0c2545c71de6d91d6d59687840c2:G:s&msclkid=7a4e0c2545c71de6d91d6d59687840c2)
 -   [Azure Databricks 📃](https://azure.microsoft.com/en-us/services/databricks/#features)
+-   [Spark 📕](https://spark.apache.org/docs/latest/api/python/index.html) - Python
+-   [Spark 📕](https://therinspark.com/) - R
 
 ### Machine Learning
 
