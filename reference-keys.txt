@@ -89,3 +89,6 @@ build-models-and-build-community
 coding-best-practices
 getting-a-job
 additional-resources-9
+aa-opening-thoughts
+fpa-fpa
+aa-focus-areas
