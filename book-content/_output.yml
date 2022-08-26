@@ -3,5 +3,6 @@ bookdown::gitbook:
     sharing:
       facebook: no
       twitter: no
+      github: true
     toc:
       collapse: section
