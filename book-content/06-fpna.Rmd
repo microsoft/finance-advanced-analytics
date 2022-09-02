@@ -1,5 +1,29 @@
 # FP&A {#aa-fpna}
 
-## AA Focus Areas
+## Focus Areas
 
-to-do
+When you think about the work done in financial planning and analysis (FP&A) teams, it usually falls into three main buckets.
+
+1.  **Looking forward**: budgeting, forecasting, scenario planning
+2.  **Looking backward**: fiscal year/quarter/month end reporting, metric analysis
+3.  **Making the next best decision**: where to invest in the business, pricing, everything else to help support the business
+
+The use of advanced analytics can easily be leveraged across all three buckets with great effect. Time series forecasting can be used to help look forward into the future, automated algorithms can help bridge the gap between what was initially predicted and what actually happened during forecast cycles, and the latest developments in AI are speeding up time to insight in helping financial analysts make the next best decision for the business.
+
+Advanced Analytics will empower every financial analyst to achieve more in their jobs, not replace them. Think of the use of technology like machine learning in finance similar to the world of chess. The best chess players in the world are not individual humans or AI powered machines, but instead are combinations of human and machine. A machine might be able to make 80% of the chess moves during a game, but often a human will need to override the machine based on their specific domain expertise of chess. This strategy should be also be adopted in FP&A. Pairing up algorithms powered by machine learning with analysts who are domain experts in the business will become the default combination in the future. Allowing the finance function to achieve more compared to only having all humans or all machines doing tasks.
+
+## History of AA in Microsoft FP&A
+
+Advanced analytics in our finance org initially got its start in the summer of 2015 when our CFO, Amy Hood, reached out to our Cloud + AI engineering org to get some help around building time series forecasts. Data scientists from that org were *borrowed* to help develop some forecasting models to be used in finance. The first use cases were very basic, trying to forecast major product revenue at the world wide level. These initial forecasts were very accurate, and could run in under 60 minutes. They were so accurate one of their initial use cases was to help set earnings guidance with wall street, in addition to becoming a triangulation point in comparing the bottoms up manual forecasts being created across various finance teams. 
+
+This initial success led to interest in creating machine learning forecasts at more granular levels across various geographies we operate in, and help improve our commercial revenue forecasting process. In 2016 we rolled out a global sales forecast solution with machine learning to help improve the commercial revenue forecasting process that happens across every Microsoft subsidiary in the field. The field forecasting process was historically very slow, often taking weeks of effort and countless excel financial models to produce the final forecast loaded into our core financial systems. Using machine learning we could forecast our entire commercial business in 90 minutes, and combine those forecasts with traditional sales pipeline based methods to create every more accurate forecasts.
+
+After successful product and sales forecasts with machine learning, we started growing the types of forecasting solutions we could approach with machine learning. We had to eventually give our AI engineers back to their respective teams so vendor data scientists were brought on to keep the momentum and expand into other areas of our P&L. Forecasts for headcount, OPEX, and COGS were quickly built in 2017-2018 to expand the use cases of ML. 
+
+## Building Advanced Analytics Talent
+
+## Tension of ML Opposites
+
+## Phases of the Machine Learning Adoption Cycle
+
+## Future State

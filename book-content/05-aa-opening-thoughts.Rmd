@@ -2,4 +2,4 @@
 
 # Opening Thoughts {#aa-opening-thoughts}
 
-to-do
+In this section, we plan to cover how advanced analytics is used across Microsoft Finance. Details will include what kinds of solutions are built across different teams, how data science teams are built, etc. Each chapter will focus on specific teams and how they do their advanced analytics work, with the hope that you can take what makes sense for your organization and apply the same practices. 
