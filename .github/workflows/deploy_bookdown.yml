@@ -62,18 +62,18 @@ jobs:
     env:
       GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@0717577d45739eb3c851188b29f50ed6c0b2194e # v2.8.0
 
-      - uses: r-lib/actions/setup-pandoc@v1
+      - uses: r-lib/actions/setup-pandoc@f5b3dfbf1942ce68283de21bf65cce051e3a2c4d # v1.0.2
 
-      - uses: r-lib/actions/setup-r@v1
+      - uses: r-lib/actions/setup-r@f5b3dfbf1942ce68283de21bf65cce051e3a2c4d # v1.0.2
         with:
           use-public-rspm: true
 
-      - uses: r-lib/actions/setup-renv@v1
+      - uses: r-lib/actions/setup-renv@f5b3dfbf1942ce68283de21bf65cce051e3a2c4d # v1.0.2
 
       - name: Cache bookdown results
-        uses: actions/cache@v2
+        uses: actions/cache@8492260343ad570701412c2f464a5877dc76bace # v2
         with:
           path: book-content/_bookdown_files
           key: bookdown-${{ hashFiles('**/*Rmd') }}
@@ -86,7 +86,7 @@ jobs:
         run: Rscript -e 'bookdown::render_book("book-content", quiet = TRUE)'
 
       - name: Deploy to GitHub pages 🚀
-        uses: JamesIves/github-pages-deploy-action@4.1.4
+        uses: JamesIves/github-pages-deploy-action@5dc1d5a192aeb5ab5b7d5a77b7d36aea4a7f5c92 # 4.1.4
         with:
           branch: gh-pages
           folder: book-content/_book
